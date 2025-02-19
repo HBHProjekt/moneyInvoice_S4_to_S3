@@ -1,17 +1,16 @@
-# Money Invoice Application
+# Money Invoice Transformation Application
 
-This project is a WPF application designed to manage and generate money invoices. Below are the details on how to build and run the application.
+This project is a JavaScript application designed to transform and generate money invoices from S4 format to S3 format. Below are the details on how to build and run the application.
 
 ## Project Structure
 
 ```
-MoneyInvoice_s4_to_s3
+moneyInvoice_S4_to_S3
 ├── src
-│   ├── App.xaml
-│   ├── App.xaml.cs
-│   ├── MainWindow.xaml
-│   └── MainWindow.xaml.cs
-├── MoneyInvoice_s4_to_s3.csproj
+│   ├── script_vydane.js
+│   └── index.html
+├── template
+│   └── FV_S4_2025.xml
 └── README.md
 ```
 
@@ -19,38 +18,24 @@ MoneyInvoice_s4_to_s3
 
 ### Prerequisites
 
-- .NET SDK (version 5.0 or later)
-- A compatible IDE (e.g., Visual Studio, JetBrains Rider)
-
-### Building the Application
-
-1. Open a terminal and navigate to the project directory:
-   ```
-   cd MoneyInvoice_s4_to_s3
-   ```
-
-2. Restore the project dependencies:
-   ```
-   dotnet restore
-   ```
-
-3. Build the project:
-   ```
-   dotnet build
-   ```
+- A web browser (e.g., Google Chrome, Mozilla Firefox)
+- A text editor or IDE (e.g., Visual Studio Code)
 
 ### Running the Application
 
-To run the application, use the following command in the terminal:
-```
-dotnet run --project MoneyInvoice_s4_to_s3.csproj
-```
+1. Open the `index.html` file in a web browser.
+
+2. Select the XML file in S4 format that you want to transform.
+
+3. Click the "Transform" button to generate the transformed XML in S3 format.
+
+4. The transformed XML will be displayed on the screen and a download link will be provided.
 
 ### Features
 
-- User-friendly interface for creating and managing invoices.
-- Ability to save and load invoice data.
-- Customizable invoice templates.
+- User-friendly interface for transforming invoices from S4 format to S3 format.
+- Ability to download the transformed XML file.
+- Automatic generation of download file name based on the current date and time.
 
 ## Contributing
 
