@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<MoneyData>
+    <SeznamFaktPrij>
+        <FaktPrij>
+            <Doklad>FP1800215</Doklad>
+            <Popis>CCS - 01/18 PHM</Popis>
+            <Vystaveno>2018-01-31</Vystaveno>
+            <DatUcPr>2018-01-31</DatUcPr>
+            <PlnenoDPH>2018-01-31</PlnenoDPH>
+            <Splatno>2018-01-31</Splatno>
+            <VarSymbol>4716764859</VarSymbol>
+            <Zakazka>2018/0001</Zakazka>
+            <DodOdb>
+                <ObchNazev>CCS �esk� spole�nost pro platebn� karty, a.s.</ObchNazev>
+                <ICO>27916693</ICO>
+                <DIC>CZ27916693</DIC>
+            </DodOdb>
+            <SeznamPolozek>
+                <Polozka>
+                    <Popis>CCS - 01/18 PHM</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>77062.9</Cena>
+                </Polozka>
+                <Polozka>
+                    <Popis>CCS - 01/18 servis</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>3651.99</Cena>
+                </Polozka>
+                <Polozka>
+                    <Popis>CCS - 01/18 poplatek</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>3292.43</Cena>
+                </Polozka>
+                <Polozka>
+                    <Popis>CCS - 01/18 z�loha</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>0</SazbaDPH>
+                    <Cena>-150915.94</Cena>
+                </Polozka>
+                <Polozka>
+                    <Popis>CCS - 01/18 zprost�edkov�n�</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>0</SazbaDPH>
+                    <Cena>2953.57</Cena>
+                </Polozka>
+                <Polozka>
+                    <Popis>CCS - 01/18 PHM kr�cen�</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>45359.38</Cena>
+                    <CenaTyp>0</CenaTyp>
+                </Polozka>
+                <Polozka>
+                    <Popis>CCS - 01/18 servis kr�cen�</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>2945.8</Cena>
+                    <CenaTyp>0</CenaTyp>
+                </Polozka>
+                <Polozka>
+                    <Popis>CCS - 01/18 PHM pom�r</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>94375.9</Cena>
+                </Polozka>
+                <Polozka>
+                    <Popis>CCS - 01/18 servis pom�r</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>6525.79</Cena>
+                </Polozka>
+                <Polozka>
+                    <Popis>CCS - 01/18 d�ln. zn�mky</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>0</SazbaDPH>
+                    <Cena>85500</Cena>
+                </Polozka>
+            </SeznamPolozek>
+            <MojeFirma>
+                <Nazev>HBH Projekt spol. s r.o.</Nazev>
+                <ICO>44961944</ICO>
+                <DIC>CZ44961944</DIC>
+                <MenaKod>CZK</MenaKod>
+            </MojeFirma>
+        </FaktPrij>
+    </SeznamFaktPrij>
+    <SeznamFaktPrij_DPP />
+</MoneyData>

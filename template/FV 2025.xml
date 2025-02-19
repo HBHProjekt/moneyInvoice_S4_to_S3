@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MoneyData ICAgendy="25518101" KodAgendy="" HospRokOd="2024-01-01" HospRokDo="2024-12-31"
+    description="faktury přijaté a vydané" ExpZkratka="_FP+FV" ExpDate="2025-01-23"
+    ExpTime="14:27:00" VyberZaznamu="0" GUID="{25458883-B99B-48AE-9798-2637D15176A7}">
+    <SeznamFaktVyd>
+        <FaktVyd>
+            <Doklad>FO243007</Doklad>
+            <GUID>{1ACF0A57-8B67-468A-A79F-35095A5C211B}</GUID>
+            <Rada>FO243</Rada>
+            <CisRada>7</CisRada>
+            <UDoklad>BP243038</UDoklad>
+            <Popis>D55, 5509 RDS koncept</Popis>
+            <Vystaveno>2024-02-15</Vystaveno>
+            <DatUcPr>2024-01-31</DatUcPr>
+            <PlnenoDPH>2024-01-31</PlnenoDPH>
+            <Splatno>2024-04-24</Splatno>
+            <Uhrazeno>2024-04-25</Uhrazeno>
+            <DatSkPoh>2024-02-15</DatSkPoh>
+            <KonstSym>0308</KonstSym>
+            <KodDPH>19Ř01,02</KodDPH>
+            <ZjednD>0</ZjednD>
+            <VarSymbol>243007</VarSymbol>
+            <ParSymbol>243007</ParSymbol>
+            <Zakazka>2022/0565_</Zakazka>
+            <CObjednavk>76 0604 27763 6 848</CObjednavk>
+            <Ucet>KB</Ucet>
+            <Druh>N</Druh>
+            <Dobropis>0</Dobropis>
+            <Uhrada>převodem</Uhrada>
+            <PredKontac>FV007</PredKontac>
+            <ZpVypDPH>1</ZpVypDPH>
+            <SazbaDPH1>12</SazbaDPH1>
+            <SazbaDPH2>21</SazbaDPH2>
+            <Proplatit>0</Proplatit>
+            <Vyuctovano>0</Vyuctovano>
+            <SouhrnDPH>
+                <Zaklad0>0</Zaklad0>
+                <Zaklad5>0</Zaklad5>
+                <Zaklad22>407040</Zaklad22>
+                <DPH5>0</DPH5>
+                <DPH22>85478.4</DPH22>
+            </SouhrnDPH>
+            <Celkem>492518.4</Celkem>
+            <Vystavil>Ladislava Hrazdílková</Vystavil>
+            <PriUhrZbyv>0</PriUhrZbyv>
+            <TextPredFa>D55, 5509 Moravský Písek - Bzenec, RDS
+                Na základě smlouvy o dílo s číslem objednatele: 76 0604 27763 6 848 (číslo smlouvy
+                dle SAP: 10000162429) a s číslem zhotovitele: 2022/0565_DS
+                Vám fakturujeme 80 % ze smluvní ceny za koncept RDS:</TextPredFa>
+            <TextZaFa>Přílohy:
+                - předávací dopisy
+                - zjišťovací protokol
+            </TextZaFa>
+            <ValutyProp>0</ValutyProp>
+            <SumZaloha>0</SumZaloha>
+            <SumZalohaC>0</SumZalohaC>
+            <DodOdb>
+                <ObchNazev>Skanska a.s.</ObchNazev>
+                <ObchAdresa>
+                    <Ulice>Křižíkova 682/34a</Ulice>
+                    <Misto>Praha 8 - Karlín</Misto>
+                    <PSC>186 00</PSC>
+                    <Stat>Česká republika</Stat>
+                </ObchAdresa>
+                <FaktNazev>Skanska a.s.</FaktNazev>
+                <ICO>26271303</ICO>
+                <DIC>CZ699004845</DIC>
+                <FaktAdresa>
+                    <Ulice>Křižíkova 682/34a</Ulice>
+                    <Misto>Praha 8 - Karlín</Misto>
+                    <PSC>186 00</PSC>
+                    <Stat>Česká republika</Stat>
+                </FaktAdresa>
+                <Nazev>Skanska a.s.</Nazev>
+                <Adresa>
+                    <Ulice>Křižíkova 682/34a</Ulice>
+                    <Misto>Praha 8 - Karlín</Misto>
+                    <PSC>186 00</PSC>
+                    <Stat>Česká republika</Stat>
+                </Adresa>
+                <GUID>{91BFD929-87C3-4E3D-83C6-89CD42E35B56}</GUID>
+                <PlatceDPH>1</PlatceDPH>
+                <FyzOsoba>0</FyzOsoba>
+                <Banka>ING Bank N.V.</Banka>
+                <Ucet>1000570358</Ucet>
+                <KodBanky>3500</KodBanky>
+                <SeznamBankSpojeni>
+                    <BankSpojeni Doklad="1">
+                        <Ucet>1000570358</Ucet>
+                        <KodBanky>3500</KodBanky>
+                    </BankSpojeni>
+                </SeznamBankSpojeni>
+            </DodOdb>
+            <KonecPrij>
+                <Nazev>Skanska a.s.</Nazev>
+                <Adresa>
+                    <Ulice>Křižíkova 682/34a</Ulice>
+                    <Misto>Praha 8 - Karlín</Misto>
+                    <PSC>186 00</PSC>
+                    <Stat>Česká republika</Stat>
+                </Adresa>
+                <GUID>{91BFD929-87C3-4E3D-83C6-89CD42E35B56}</GUID>
+                <ICO>26271303</ICO>
+                <DIC>CZ699004845</DIC>
+                <PlatceDPH>1</PlatceDPH>
+                <FyzOsoba>0</FyzOsoba>
+                <Banka>ING Bank N.V.</Banka>
+                <Ucet>1000570358</Ucet>
+                <KodBanky>3500</KodBanky>
+            </KonecPrij>
+            <DopravTuz>0</DopravTuz>
+            <DopravZahr>0</DopravZahr>
+            <Sleva>0</Sleva>
+            <SeznamPolozek>
+                <Polozka>
+                    <Popis>Koncept RDS SO 423</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>38400</Cena>
+                    <SouhrnDPH>
+                        <Zaklad_MJ>38400</Zaklad_MJ>
+                        <DPH_MJ>8064</DPH_MJ>
+                        <Zaklad>38400</Zaklad>
+                        <DPH>8064</DPH>
+                    </SouhrnDPH>
+                    <CenaTyp>0</CenaTyp>
+                    <Sleva>0</Sleva>
+                    <Poradi>1</Poradi>
+                    <KodDPH>19Ř01,02</KodDPH>
+                    <Zakazka>2022/0565_</Zakazka>
+                    <Predkontac>FV007</Predkontac>
+                    <Valuty>0</Valuty>
+                    <NesklPolozka>
+                        <Zaloha>0</Zaloha>
+                        <TypZarDoby>N</TypZarDoby>
+                        <ZarDoba>0</ZarDoba>
+                        <Protizapis>0</Protizapis>
+                        <Hmotnost>0</Hmotnost>
+                    </NesklPolozka>
+                    <CenaPoSleve>1</CenaPoSleve>
+                </Polozka>
+                <Polozka>
+                    <Popis>Koncept RDS SO 424</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>69120</Cena>
+                    <SouhrnDPH>
+                        <Zaklad_MJ>69120</Zaklad_MJ>
+                        <DPH_MJ>14515.2</DPH_MJ>
+                        <Zaklad>69120</Zaklad>
+                        <DPH>14515.2</DPH>
+                    </SouhrnDPH>
+                    <CenaTyp>0</CenaTyp>
+                    <Sleva>0</Sleva>
+                    <Poradi>2</Poradi>
+                    <KodDPH>19Ř01,02</KodDPH>
+                    <Zakazka>2022/0565_</Zakazka>
+                    <Predkontac>FV007</Predkontac>
+                    <Valuty>0</Valuty>
+                    <NesklPolozka>
+                        <Zaloha>0</Zaloha>
+                        <TypZarDoby>N</TypZarDoby>
+                        <ZarDoba>0</ZarDoba>
+                        <Protizapis>0</Protizapis>
+                        <Hmotnost>0</Hmotnost>
+                    </NesklPolozka>
+                    <CenaPoSleve>1</CenaPoSleve>
+                </Polozka>
+                <Polozka>
+                    <Popis>Koncept RDS SO 426</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>69120</Cena>
+                    <SouhrnDPH>
+                        <Zaklad_MJ>69120</Zaklad_MJ>
+                        <DPH_MJ>14515.2</DPH_MJ>
+                        <Zaklad>69120</Zaklad>
+                        <DPH>14515.2</DPH>
+                    </SouhrnDPH>
+                    <CenaTyp>0</CenaTyp>
+                    <Sleva>0</Sleva>
+                    <Poradi>3</Poradi>
+                    <KodDPH>19Ř01,02</KodDPH>
+                    <Zakazka>2022/0565_</Zakazka>
+                    <Predkontac>FV007</Predkontac>
+                    <Valuty>0</Valuty>
+                    <NesklPolozka>
+                        <Zaloha>0</Zaloha>
+                        <TypZarDoby>N</TypZarDoby>
+                        <ZarDoba>0</ZarDoba>
+                        <Protizapis>0</Protizapis>
+                        <Hmotnost>0</Hmotnost>
+                    </NesklPolozka>
+                    <CenaPoSleve>1</CenaPoSleve>
+                </Polozka>
+                <Polozka>
+                    <Popis>Koncept RDS SO 801</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>230400</Cena>
+                    <SouhrnDPH>
+                        <Zaklad_MJ>230400</Zaklad_MJ>
+                        <DPH_MJ>48384</DPH_MJ>
+                        <Zaklad>230400</Zaklad>
+                        <DPH>48384</DPH>
+                    </SouhrnDPH>
+                    <CenaTyp>0</CenaTyp>
+                    <Sleva>0</Sleva>
+                    <Poradi>4</Poradi>
+                    <KodDPH>19Ř01,02</KodDPH>
+                    <Zakazka>2022/0565_</Zakazka>
+                    <Predkontac>FV007</Predkontac>
+                    <Valuty>0</Valuty>
+                    <NesklPolozka>
+                        <Zaloha>0</Zaloha>
+                        <TypZarDoby>N</TypZarDoby>
+                        <ZarDoba>0</ZarDoba>
+                        <Protizapis>0</Protizapis>
+                        <Hmotnost>0</Hmotnost>
+                    </NesklPolozka>
+                    <CenaPoSleve>1</CenaPoSleve>
+                </Polozka>
+            </SeznamPolozek>
+            <SeznamUhrad>
+                <Uhrada>
+                    <DokladUhr>
+                        <IDDokladu>122</IDDokladu>
+                        <CisloDokladu>BP243038</CisloDokladu>
+                        <DruhDokladu>B</DruhDokladu>
+                        <Rok>2024</Rok>
+                    </DokladUhr>
+                    <Prijem>1</Prijem>
+                    <Datum>2024-04-25</Datum>
+                    <DatUplDPH>2024-04-25</DatUplDPH>
+                    <Castka>492518.4</Castka>
+                    <ZpusobUhr>0</ZpusobUhr>
+                </Uhrada>
+            </SeznamUhrad>
+            <MojeFirma>
+                <Nazev>Dopravní stavby PROJEKCE s.r.o.</Nazev>
+                <Adresa>
+                    <Ulice>Železniční 547/A</Ulice>
+                    <Misto>Olomouc</Misto>
+                    <PSC>772 00</PSC>
+                    <Stat>Česká republika</Stat>
+                    <KodStatu>CZ</KodStatu>
+                </Adresa>
+                <ObchNazev>Dopravní stavby PROJEKCE s.r.o.</ObchNazev>
+                <ObchAdresa>
+                    <Ulice>Železniční 547/A</Ulice>
+                    <Misto>Olomouc</Misto>
+                    <PSC>772 00</PSC>
+                    <Stat>Česká republika</Stat>
+                    <KodStatu>CZ</KodStatu>
+                </ObchAdresa>
+                <Tel>
+                    <Pred>00420</Pred>
+                    <Cislo>585423361</Cislo>
+                    <Klap></Klap>
+                </Tel>
+                <Fax>
+                    <Pred></Pred>
+                    <Cislo></Cislo>
+                    <Klap></Klap>
+                </Fax>
+                <Mobil>
+                    <Pred></Pred>
+                    <Cislo></Cislo>
+                </Mobil>
+                <EMail></EMail>
+                <WWW></WWW>
+                <ICO>25518101</ICO>
+                <DIC>CZ25518101</DIC>
+                <Banka>Komerční banka, a.s.</Banka>
+                <Ucet>107-4068460247</Ucet>
+                <KodBanky>0100</KodBanky>
+                <KodPartn></KodPartn>
+                <FyzOsoba>0</FyzOsoba>
+                <MenaSymb>Kč</MenaSymb>
+                <MenaKod>CZK</MenaKod>
+            </MojeFirma>
+        </FaktVyd>
+        <FaktVyd>
+            <Doklad>FO243008</Doklad>
+            <GUID>{1CE3F102-5CD3-4F0D-AFAB-02775DB2F592}</GUID>
+            <Rada>FO243</Rada>
+            <CisRada>8</CisRada>
+            <UDoklad>BP243036</UDoklad>
+            <Popis>D55, 5509 RDS čistopis</Popis>
+            <Vystaveno>2024-02-15</Vystaveno>
+            <DatUcPr>2024-01-31</DatUcPr>
+            <PlnenoDPH>2024-01-31</PlnenoDPH>
+            <Splatno>2024-04-24</Splatno>
+            <Uhrazeno>2024-04-25</Uhrazeno>
+            <DatSkPoh>2024-02-15</DatSkPoh>
+            <KonstSym>0308</KonstSym>
+            <KodDPH>19Ř01,02</KodDPH>
+            <ZjednD>0</ZjednD>
+            <VarSymbol>243008</VarSymbol>
+            <ParSymbol>243008</ParSymbol>
+            <Zakazka>2022/0565_</Zakazka>
+            <CObjednavk>76 0604 27763 6 848</CObjednavk>
+            <Ucet>KB</Ucet>
+            <Druh>N</Druh>
+            <Dobropis>0</Dobropis>
+            <Uhrada>převodem</Uhrada>
+            <PredKontac>FV007</PredKontac>
+            <ZpVypDPH>1</ZpVypDPH>
+            <SazbaDPH1>12</SazbaDPH1>
+            <SazbaDPH2>21</SazbaDPH2>
+            <Proplatit>0</Proplatit>
+            <Vyuctovano>0</Vyuctovano>
+            <SouhrnDPH>
+                <Zaklad0>0</Zaklad0>
+                <Zaklad5>0</Zaklad5>
+                <Zaklad22>115200</Zaklad22>
+                <DPH5>0</DPH5>
+                <DPH22>24192</DPH22>
+            </SouhrnDPH>
+            <Celkem>139392</Celkem>
+            <Vystavil>Ladislava Hrazdílková</Vystavil>
+            <PriUhrZbyv>0</PriUhrZbyv>
+            <TextPredFa>D55, 5509 Moravský Písek - Bzenec, RDS
+                Na základě smlouvy o dílo s číslem objednatele: 76 0604 27763 6 848 (číslo smlouvy
+                dle SAP: 10000162429) a s číslem zhotovitele: 2022/0565_DS
+                Vám fakturujeme 20 % ze smluvní ceny za čistopis RDS:</TextPredFa>
+            <TextZaFa>Přílohy:
+                - předávací dopisy
+                - zjišťovací protokol
+            </TextZaFa>
+            <ValutyProp>0</ValutyProp>
+            <SumZaloha>0</SumZaloha>
+            <SumZalohaC>0</SumZalohaC>
+            <DodOdb>
+                <ObchNazev>Skanska a.s.</ObchNazev>
+                <ObchAdresa>
+                    <Ulice>Křižíkova 682/34a</Ulice>
+                    <Misto>Praha 8 - Karlín</Misto>
+                    <PSC>186 00</PSC>
+                    <Stat>Česká republika</Stat>
+                </ObchAdresa>
+                <FaktNazev>Skanska a.s.</FaktNazev>
+                <ICO>26271303</ICO>
+                <DIC>CZ699004845</DIC>
+                <FaktAdresa>
+                    <Ulice>Křižíkova 682/34a</Ulice>
+                    <Misto>Praha 8 - Karlín</Misto>
+                    <PSC>186 00</PSC>
+                    <Stat>Česká republika</Stat>
+                </FaktAdresa>
+                <Nazev>Skanska a.s.</Nazev>
+                <Adresa>
+                    <Ulice>Křižíkova 682/34a</Ulice>
+                    <Misto>Praha 8 - Karlín</Misto>
+                    <PSC>186 00</PSC>
+                    <Stat>Česká republika</Stat>
+                </Adresa>
+                <GUID>{91BFD929-87C3-4E3D-83C6-89CD42E35B56}</GUID>
+                <PlatceDPH>1</PlatceDPH>
+                <FyzOsoba>0</FyzOsoba>
+                <Banka>ING Bank N.V.</Banka>
+                <Ucet>1000570358</Ucet>
+                <KodBanky>3500</KodBanky>
+                <SeznamBankSpojeni>
+                    <BankSpojeni Doklad="1">
+                        <Ucet>1000570358</Ucet>
+                        <KodBanky>3500</KodBanky>
+                    </BankSpojeni>
+                </SeznamBankSpojeni>
+            </DodOdb>
+            <KonecPrij>
+                <Nazev>Skanska a.s.</Nazev>
+                <Adresa>
+                    <Ulice>Křižíkova 682/34a</Ulice>
+                    <Misto>Praha 8 - Karlín</Misto>
+                    <PSC>186 00</PSC>
+                    <Stat>Česká republika</Stat>
+                </Adresa>
+                <GUID>{91BFD929-87C3-4E3D-83C6-89CD42E35B56}</GUID>
+                <ICO>26271303</ICO>
+                <DIC>CZ699004845</DIC>
+                <PlatceDPH>1</PlatceDPH>
+                <FyzOsoba>0</FyzOsoba>
+                <Banka>ING Bank N.V.</Banka>
+                <Ucet>1000570358</Ucet>
+                <KodBanky>3500</KodBanky>
+            </KonecPrij>
+            <DopravTuz>0</DopravTuz>
+            <DopravZahr>0</DopravZahr>
+            <Sleva>0</Sleva>
+            <SeznamPolozek>
+                <Polozka>
+                    <Popis>Čistopis RDS SO 487</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>17280</Cena>
+                    <SouhrnDPH>
+                        <Zaklad_MJ>17280</Zaklad_MJ>
+                        <DPH_MJ>3628.8</DPH_MJ>
+                        <Zaklad>17280</Zaklad>
+                        <DPH>3628.8</DPH>
+                    </SouhrnDPH>
+                    <CenaTyp>0</CenaTyp>
+                    <Sleva>0</Sleva>
+                    <Poradi>1</Poradi>
+                    <KodDPH>19Ř01,02</KodDPH>
+                    <Zakazka>2022/0565_</Zakazka>
+                    <Predkontac>FV007</Predkontac>
+                    <Valuty>0</Valuty>
+                    <NesklPolozka>
+                        <Zaloha>0</Zaloha>
+                        <TypZarDoby>N</TypZarDoby>
+                        <ZarDoba>0</ZarDoba>
+                        <Protizapis>0</Protizapis>
+                        <Hmotnost>0</Hmotnost>
+                    </NesklPolozka>
+                    <CenaPoSleve>1</CenaPoSleve>
+                </Polozka>
+                <Polozka>
+                    <Popis>Čistopis RDS SO 701</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>51840</Cena>
+                    <SouhrnDPH>
+                        <Zaklad_MJ>51840</Zaklad_MJ>
+                        <DPH_MJ>10886.4</DPH_MJ>
+                        <Zaklad>51840</Zaklad>
+                        <DPH>10886.4</DPH>
+                    </SouhrnDPH>
+                    <CenaTyp>0</CenaTyp>
+                    <Sleva>0</Sleva>
+                    <Poradi>2</Poradi>
+                    <KodDPH>19Ř01,02</KodDPH>
+                    <Zakazka>2022/0565_</Zakazka>
+                    <Predkontac>FV007</Predkontac>
+                    <Valuty>0</Valuty>
+                    <NesklPolozka>
+                        <Zaloha>0</Zaloha>
+                        <TypZarDoby>N</TypZarDoby>
+                        <ZarDoba>0</ZarDoba>
+                        <Protizapis>0</Protizapis>
+                        <Hmotnost>0</Hmotnost>
+                    </NesklPolozka>
+                    <CenaPoSleve>1</CenaPoSleve>
+                </Polozka>
+                <Polozka>
+                    <Popis>Čistopis RDS SO 724</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>11520</Cena>
+                    <SouhrnDPH>
+                        <Zaklad_MJ>11520</Zaklad_MJ>
+                        <DPH_MJ>2419.2</DPH_MJ>
+                        <Zaklad>11520</Zaklad>
+                        <DPH>2419.2</DPH>
+                    </SouhrnDPH>
+                    <CenaTyp>0</CenaTyp>
+                    <Sleva>0</Sleva>
+                    <Poradi>3</Poradi>
+                    <KodDPH>19Ř01,02</KodDPH>
+                    <Zakazka>2022/0565_</Zakazka>
+                    <Predkontac>FV007</Predkontac>
+                    <Valuty>0</Valuty>
+                    <NesklPolozka>
+                        <Zaloha>0</Zaloha>
+                        <TypZarDoby>N</TypZarDoby>
+                        <ZarDoba>0</ZarDoba>
+                        <Protizapis>0</Protizapis>
+                        <Hmotnost>0</Hmotnost>
+                    </NesklPolozka>
+                    <CenaPoSleve>1</CenaPoSleve>
+                </Polozka>
+                <Polozka>
+                    <Popis>Čistopis RDS SO 811</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>17280</Cena>
+                    <SouhrnDPH>
+                        <Zaklad_MJ>17280</Zaklad_MJ>
+                        <DPH_MJ>3628.8</DPH_MJ>
+                        <Zaklad>17280</Zaklad>
+                        <DPH>3628.8</DPH>
+                    </SouhrnDPH>
+                    <CenaTyp>0</CenaTyp>
+                    <Sleva>0</Sleva>
+                    <Poradi>4</Poradi>
+                    <KodDPH>19Ř01,02</KodDPH>
+                    <Zakazka>2022/0565_</Zakazka>
+                    <Predkontac>FV007</Predkontac>
+                    <Valuty>0</Valuty>
+                    <NesklPolozka>
+                        <Zaloha>0</Zaloha>
+                        <TypZarDoby>N</TypZarDoby>
+                        <ZarDoba>0</ZarDoba>
+                        <Protizapis>0</Protizapis>
+                        <Hmotnost>0</Hmotnost>
+                    </NesklPolozka>
+                    <CenaPoSleve>1</CenaPoSleve>
+                </Polozka>
+                <Polozka>
+                    <Popis>Čistopis RDS SO 812</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>17280</Cena>
+                    <SouhrnDPH>
+                        <Zaklad_MJ>17280</Zaklad_MJ>
+                        <DPH_MJ>3628.8</DPH_MJ>
+                        <Zaklad>17280</Zaklad>
+                        <DPH>3628.8</DPH>
+                    </SouhrnDPH>
+                    <CenaTyp>0</CenaTyp>
+                    <Sleva>0</Sleva>
+                    <Poradi>5</Poradi>
+                    <KodDPH>19Ř01,02</KodDPH>
+                    <Zakazka>2022/0565_</Zakazka>
+                    <Predkontac>FV007</Predkontac>
+                    <Valuty>0</Valuty>
+                    <NesklPolozka>
+                        <Zaloha>0</Zaloha>
+                        <TypZarDoby>N</TypZarDoby>
+                        <ZarDoba>0</ZarDoba>
+                        <Protizapis>0</Protizapis>
+                        <Hmotnost>0</Hmotnost>
+                    </NesklPolozka>
+                    <CenaPoSleve>1</CenaPoSleve>
+                </Polozka>
+            </SeznamPolozek>
+            <SeznamUhrad>
+                <Uhrada>
+                    <DokladUhr>
+                        <IDDokladu>120</IDDokladu>
+                        <CisloDokladu>BP243036</CisloDokladu>
+                        <DruhDokladu>B</DruhDokladu>
+                        <Rok>2024</Rok>
+                    </DokladUhr>
+                    <Prijem>1</Prijem>
+                    <Datum>2024-04-25</Datum>
+                    <DatUplDPH>2024-04-25</DatUplDPH>
+                    <Castka>139392</Castka>
+                    <ZpusobUhr>0</ZpusobUhr>
+                </Uhrada>
+            </SeznamUhrad>
+            <MojeFirma>
+                <Nazev>Dopravní stavby PROJEKCE s.r.o.</Nazev>
+                <Adresa>
+                    <Ulice>Železniční 547/A</Ulice>
+                    <Misto>Olomouc</Misto>
+                    <PSC>772 00</PSC>
+                    <Stat>Česká republika</Stat>
+                    <KodStatu>CZ</KodStatu>
+                </Adresa>
+                <ObchNazev>Dopravní stavby PROJEKCE s.r.o.</ObchNazev>
+                <ObchAdresa>
+                    <Ulice>Železniční 547/A</Ulice>
+                    <Misto>Olomouc</Misto>
+                    <PSC>772 00</PSC>
+                    <Stat>Česká republika</Stat>
+                    <KodStatu>CZ</KodStatu>
+                </ObchAdresa>
+                <Tel>
+                    <Pred>00420</Pred>
+                    <Cislo>585423361</Cislo>
+                    <Klap></Klap>
+                </Tel>
+                <Fax>
+                    <Pred></Pred>
+                    <Cislo></Cislo>
+                    <Klap></Klap>
+                </Fax>
+                <Mobil>
+                    <Pred></Pred>
+                    <Cislo></Cislo>
+                </Mobil>
+                <EMail></EMail>
+                <WWW></WWW>
+                <ICO>25518101</ICO>
+                <DIC>CZ25518101</DIC>
+                <Banka>Komerční banka, a.s.</Banka>
+                <Ucet>107-4068460247</Ucet>
+                <KodBanky>0100</KodBanky>
+                <KodPartn></KodPartn>
+                <FyzOsoba>0</FyzOsoba>
+                <MenaSymb>Kč</MenaSymb>
+                <MenaKod>CZK</MenaKod>
+            </MojeFirma>
+        </FaktVyd>
+    </SeznamFaktVyd>
+    <SeznamFaktVyd_DPP />
+</MoneyData>

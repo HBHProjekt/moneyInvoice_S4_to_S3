@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<MoneyData>
+    <SeznamFaktVyd>
+        <FaktVyd>
+            <Doklad>FO18029</Doklad>
+            <Popis>D1 modernizace - �sek 15, RDS</Popis>
+            <Vystaveno>2018-02-28</Vystaveno>
+            <DatUcPr>2018-02-28</DatUcPr>
+            <PlnenoDPH>2018-02-28</PlnenoDPH>
+            <Splatno>2018-05-10</Splatno>
+            <VarSymbol>18029</VarSymbol>
+            <Zakazka>2016/0148</Zakazka>
+            <TextPredFa>D1 modernizace - �sek 15, EXIT 112 Jihlava - EXIT 119 Velk� Beranov, RDS
+                Na z�klad� Smlouvy o d�lo s ��slem objednatele: 1601 1104 a s ��slem zhotovitele:
+                2016/0148
+                V�m fakturujeme smluvn� cenu:</TextPredFa>
+            <TextZaFa>P��lohy:
+                - soupis fakturovan�ch objekt�
+                - rekapitulace fakturovan�ch prac�</TextZaFa>
+            <DodOdb>
+                <ObchNazev>Vodohospod��sk� stavby, spol. s r.o.</ObchNazev>
+                <ICO>40233308</ICO>
+                <DIC>CZ40233308</DIC>
+            </DodOdb>
+            <SeznamPolozek>
+                <Polozka>
+                    <Popis>Projektov� dokumentace ve stupni RDS - viz soupis</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>390000</Cena>
+                </Polozka>
+                <Polozka>
+                    <Popis>Pozast�vka - 10 % z ceny RDS</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>0</SazbaDPH>
+                    <Cena>-39000</Cena>
+                </Polozka>
+            </SeznamPolozek>
+            <MojeFirma>
+                <Nazev>HBH Projekt spol. s r.o.</Nazev>
+                <ICO>44961944</ICO>
+                <MenaKod>CZK</MenaKod>
+            </MojeFirma>
+        </FaktVyd>
+    </SeznamFaktVyd>
+    <SeznamFaktVyd_DPP />
+</MoneyData>

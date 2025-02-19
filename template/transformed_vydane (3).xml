@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<MoneyData ICAgendy="44961944" KodAgendy="" HospRokOd="2018-01-01" HospRokDo="2018-12-31" description="faktury přijaté a vydané" ExpZkratka="_FP+FV" ExpDate="2018-11-05" ExpTime="08:58:00" VyberZaznamu="0">
+    <SeznamFaktVyd>
+        <FaktVyd>
+            <Doklad>FO243002</Doklad>
+            <GUID>{5ECE0368-FEF8-4475-B50E-5F2AEC620622}</GUID>
+            <Rada>FO243</Rada>
+            <CisRada>2</CisRada>
+            <UDoklad>BP243031</UDoklad>
+            <Popis>5506, 5507 RDS - koncept</Popis>
+            <Vystaveno>2024-02-13</Vystaveno>
+            <DatUcPr>2024-01-31</DatUcPr>
+            <PlnenoDPH>2024-01-31</PlnenoDPH>
+            <Splatno>2024-04-14</Splatno>
+            <Uhrazeno>2024-04-10</Uhrazeno>
+            <DatSkPoh>2024-02-13</DatSkPoh>
+            <KonstSym>0308</KonstSym>
+            <KodDPH>19Ř01,02</KodDPH>
+            <ZjednD>0</ZjednD>
+            <VarSymbol>243002</VarSymbol>
+            <ParSymbol>243002</ParSymbol>
+            <Zakazka>2020/1111_</Zakazka>
+            <CObjednavk>21/MF/03-138/MFAB/20-SUB 2</CObjednavk>
+            <Ucet>KB</Ucet>
+            <Druh>N</Druh>
+            <Dobropis>0</Dobropis>
+            <Uhrada>převodem</Uhrada>
+            <PredKontac>FV007</PredKontac>
+            <ZpVypDPH>1</ZpVypDPH>
+            <SazbaDPH1>12</SazbaDPH1>
+            <SazbaDPH2>21</SazbaDPH2>
+            <Proplatit>0</Proplatit>
+            <Vyuctovano>0</Vyuctovano>
+            <SouhrnDPH>
+                <Zaklad0>0</Zaklad0>
+                <Zaklad5>0</Zaklad5>
+                <Zaklad22>64400</Zaklad22>
+                <DPH5>0</DPH5>
+                <DPH22>13524</DPH22>
+            </SouhrnDPH>
+            <Celkem>77924</Celkem>
+            <Vystavil>Ladislava Hrazdílková</Vystavil>
+            <PriUhrZbyv>0</PriUhrZbyv>
+            <TextPredFa>D55, 5506 Napajedla - Babice, 3. etapa a D55, 5507 Babice - Staré Město
+                Referenční kód: RC-KST-CZ-841-MFAB
+                Na základě smlouvy o dílo s číslem objednatele: 21/MF/03-138/MFAB/20-SUB 2 a s
+                číslem zhotovitele: 2020/1111
+                Vám fakturujeme 40 % ze smluvní ceny za koncept RDS:</TextPredFa>
+            <TextZaFa>Příloha:
+                - předávací dopisy
+                - soupis fakturovaných objektů včetně ocenění</TextZaFa>
+            <ValutyProp>0</ValutyProp>
+            <SumZaloha>0</SumZaloha>
+            <SumZalohaC>0</SumZalohaC>
+            <DodOdb>
+                <ObchNazev>STRABAG a.s.</ObchNazev>
+                <ObchAdresa>
+                    <Ulice>Kačírkova 982/4</Ulice>
+                    <Misto>Praha</Misto>
+                    <PSC>15800</PSC>
+                    <Stat>Česká republika</Stat>
+                    <KodStatu>CZ</KodStatu>
+                </ObchAdresa>
+                <FaktNazev>STRABAG a.s.</FaktNazev>
+                <ICO>60838744</ICO>
+                <DIC>CZ60838744</DIC>
+                <FaktAdresa>
+                    <Ulice>Kačírkova 982/4</Ulice>
+                    <Misto>Praha</Misto>
+                    <PSC>15800</PSC>
+                    <Stat>Česká republika</Stat>
+                    <KodStatu>CZ</KodStatu>
+                </FaktAdresa>
+                <GUID>{5ECE0368-FEF8-4475-B50E-5F2AEC620622}</GUID>
+                <PlatceDPH>1</PlatceDPH>
+                <FyzOsoba>0</FyzOsoba>
+                <Banka>Komerční banka, a.s.</Banka>
+                <Ucet>KB</Ucet>
+                <KodBanky>0100</KodBanky>
+            </DodOdb>
+            <SeznamPolozek>
+                <Polozka>
+                    <Popis>Koncept RDS SO 671.6</Popis>
+                    <PocetMJ>1</PocetMJ>
+                    <SazbaDPH>21</SazbaDPH>
+                    <Cena>64400</Cena>
+                    <SouhrnDPH>
+                        <Zaklad_MJ>64400</Zaklad_MJ>
+                        <DPH_MJ>13524</DPH_MJ>
+                        <Zaklad>64400</Zaklad>
+                        <DPH>13524</DPH>
+                    </SouhrnDPH>
+                    <CenaTyp>0</CenaTyp>
+                    <Sleva>0</Sleva>
+                    <Poradi>1</Poradi>
+                    <KodDPH>19Ř01,02</KodDPH>
+                    <Stredisko />
+                    <Zakazka>2020/1111_</Zakazka>
+                    <Predkontac>FV007</Predkontac>
+                    <Valuty>0</Valuty>
+                    <NesklPolozka>
+                        <Zaloha>0</Zaloha>
+                        <TypZarDoby>N</TypZarDoby>
+                        <ZarDoba>0</ZarDoba>
+                        <Protizapis>0</Protizapis>
+                        <Hmotnost>0</Hmotnost>
+                    </NesklPolozka>
+                    <CenaPoSleve>1</CenaPoSleve>
+                </Polozka>
+            </SeznamPolozek>
+            <DopravTuz>0</DopravTuz>
+            <DopravZahr>0</DopravZahr>
+            <DatumITS />
+            <Sleva>0</Sleva>
+            <SeznamUhrad>
+                <Uhrada>
+                    <DokladUhr>
+                        <IDDokladu />
+                        <CisloDokladu />
+                        <DruhDokladu />
+                        <Rok />
+                    </DokladUhr>
+                    <Prijem />
+                    <Datum />
+                    <DatUplDPH />
+                    <Castka />
+                    <ZpusobUhr />
+                </Uhrada>
+                <Uhrada>
+                    <DokladUhr>
+                        <IDDokladu>106</IDDokladu>
+                        <CisloDokladu>BP243031</CisloDokladu>
+                        <DruhDokladu>B</DruhDokladu>
+                        <Rok>2024</Rok>
+                    </DokladUhr>
+                    <Prijem>1</Prijem>
+                    <Datum>2024-04-10</Datum>
+                    <DatUplDPH>2024-04-10</DatUplDPH>
+                    <Castka>77924</Castka>
+                    <ZpusobUhr>0</ZpusobUhr>
+                </Uhrada>
+            </SeznamUhrad>
+            <MojeFirma>
+                <Nazev>Dopravní stavby PROJEKCE s.r.o.</Nazev>
+                <Adresa>
+                    <Ulice>Železniční 547/A</Ulice>
+                    <Misto>Olomouc</Misto>
+                    <PSC>772 00</PSC>
+                    <Stat>Česká republika</Stat>
+                    <KodStatu>CZ</KodStatu>
+                </Adresa>
+                <ObchNazev>Dopravní stavby PROJEKCE s.r.o.</ObchNazev>
+                <ObchAdresa>
+                    <Ulice>Železniční 547/A</Ulice>
+                    <Misto>Olomouc</Misto>
+                    <PSC>772 00</PSC>
+                    <Stat>Česká republika</Stat>
+                    <KodStatu>CZ</KodStatu>
+                </ObchAdresa>
+                <FaktNazev />
+                <FaktAdresa>
+                    <Ulice>Železniční 547/A</Ulice>
+                    <Misto>Olomouc</Misto>
+                    <PSC>772 00</PSC>
+                    <Stat>Česká republika</Stat>
+                    <KodStatu>CZ</KodStatu>
+                </FaktAdresa>
+                <Tel>
+                    <Pred />
+                    <Cislo />
+                    <Klap />
+                </Tel>
+                <Fax>
+                    <Pred />
+                    <Cislo />
+                    <Klap />
+                </Fax>
+                <Mobil>
+                    <Pred />
+                    <Cislo />
+                </Mobil>
+                <EMail />
+                <WWW />
+                <ICO>25518101</ICO>
+                <DIC>CZ25518101</DIC>
+                <Banka>Komerční banka, a.s.</Banka>
+                <Ucet>107-4068460247</Ucet>
+                <KodBanky>0100</KodBanky>
+                <KodPartn />
+                <FyzOsoba>0</FyzOsoba>
+                <SpisovaZnacka />
+                <MenaSymb>Kč</MenaSymb>
+                <MenaKod>CZK</MenaKod>
+            </MojeFirma>
+        </FaktVyd>
+    </SeznamFaktVyd>
+</MoneyData>

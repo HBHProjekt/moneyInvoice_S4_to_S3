@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<MoneyData ICAgendy="31815332" KodAgendy="" HospRokOd="2018-01-01" HospRokDo="2018-12-31" description="faktúry prijaté a vystavené" ExpZkratka="_FP+FV" ExpDate="2018-11-05" ExpTime="09:09:00" VyberZaznamu="0">
+  <SeznamFaktVyd>
+    <FaktVyd>
+      <Doklad>FO18042</Doklad>
+      <GUID>{01299885-E6C4-4F48-8E71-06BF745B321A}</GUID>
+      <Rada>FO18</Rada>
+      <CisRada>42</CisRada>
+      <UDoklad>BU1800479</UDoklad>
+      <Popis>I/11 KNM - technická štúdia</Popis>
+      <Vystaveno>2018-06-25</Vystaveno>
+      <DatUcPr>2018-06-25</DatUcPr>
+      <PlnenoDPH>2018-06-25</PlnenoDPH>
+      <Splatno>2018-07-27</Splatno>
+      <Uhrazeno>2018-07-27</Uhrazeno>
+      <Doruceno>2018-06-25</Doruceno>
+      <DatSkPoh>2018-06-25</DatSkPoh>
+      <KonstSym>0308</KonstSym>
+      <KodDPH>12U R01_03</KodDPH>
+      <ZjednD>0</ZjednD>
+      <PlnenDPH>0</PlnenDPH>
+      <VarSymbol>18042</VarSymbol>
+      <Zakazka>2018/0130</Zakazka>
+      <CObjednavk>OBJ/400/13731/30102/2018</CObjednavk>
+      <Ucet>BU02</Ucet>
+      <Druh>N</Druh>
+      <Dobropis>0</Dobropis>
+      <Uhrada>prevodom</Uhrada>
+      <PredKontac>FV002</PredKontac>
+      <SazbaDPH1>10</SazbaDPH1>
+      <SazbaDPH2>20</SazbaDPH2>
+      <Proplatit>0</Proplatit>
+      <Vyuctovano>0</Vyuctovano>
+      <SouhrnDPH>
+        <Zaklad0>0</Zaklad0>
+        <Zaklad5>0</Zaklad5>
+        <Zaklad22>49600</Zaklad22>
+        <DPH5>0</DPH5>
+        <DPH22>9960</DPH22>
+      </SouhrnDPH>
+      <Celkem>59760</Celkem>
+      <Typ>SIT BA</Typ>
+      <Vystavil>Ing. Katarína Eleková</Vystavil>
+      <PriUhrZbyv>0</PriUhrZbyv>
+      <TextPredFa>Organizácia dopravy na ceste I/11 v Kysuckom Novom Meste, technická štúdia Číslo stavby 1514 Na základe Vašej objednávky zo dňa 6.2. 2018 s číslom objednávateľa OBJ/400/13731/30102/2018 a s číslom zhotoviteľa 2018/0130 Vám fakturujeme (kód SK NACE 71.12.1) zmluvnú cenu:</TextPredFa>
+      <TextZaFa>Príloha: Protokol o prevzatí §69 ods. 12 pís.j) zákona o DPH sa nás netýka.</TextZaFa>
+      <ValutyProp>0</ValutyProp>
+      <SumZaloha>0</SumZaloha>
+      <SumZalohaC>0</SumZalohaC>
+      <DodOdb>
+        <ObchNazev>Národná dialničná spoločnosť a. s.</ObchNazev>
+        <ObchAdresa>
+          <Ulice>Dúbravská cesta 14</Ulice>
+          <Misto>Bratislava</Misto>
+          <PSC>84104</PSC>
+          <Stat>Slovensko</Stat>
+          <KodStatu>SK</KodStatu>
+        </ObchAdresa>
+        <FaktNazev>Národná dialničná spoločnosť a. s.</FaktNazev>
+        <ICO>35919001</ICO>
+        <DIC>SK2021937775</DIC>
+        <FaktAdresa>
+          <Ulice>Dúbravská cesta 14</Ulice>
+          <Misto>Bratislava</Misto>
+          <PSC>84104</PSC>
+          <Stat>Slovensko</Stat>
+          <KodStatu>SK</KodStatu>
+        </FaktAdresa>
+        <GUID>{035E2CEA-8F40-48F4-8F1B-8424C637EBE9}</GUID>
+        <Nazev>Národná dialničná spoločnosť a. s.</Nazev>
+        <Tel>
+          <Pred>02</Pred>
+        </Tel>
+        <Fax>
+          <Pred>02</Pred>
+        </Fax>
+        <WWW>www.ndsas.sk</WWW>
+        <PlatceDPH>1</PlatceDPH>
+        <FyzOsoba>0</FyzOsoba>
+        <Banka>UniCredit Bank Czech Republic and Slovakia, a.s.</Banka>
+        <Ucet>6624859013</Ucet>
+        <KodBanky>1111</KodBanky>
+        <DICSK>2021937775</DICSK>
+      </DodOdb>
+      <KonecPrij>
+        <Nazev>Národná dialničná spoločnosť a. s.</Nazev>
+        <Adresa>
+          <Ulice>Dúbravská cesta 14</Ulice>
+          <Misto>Bratislava</Misto>
+          <PSC>84104</PSC>
+          <Stat>Slovensko</Stat>
+          <KodStatu>SK</KodStatu>
+        </Adresa>
+        <GUID>{035E2CEA-8F40-48F4-8F1B-8424C637EBE9}</GUID>
+        <Tel>
+          <Pred>02</Pred>
+        </Tel>
+        <Fax>
+          <Pred>02</Pred>
+        </Fax>
+        <WWW>www.ndsas.sk</WWW>
+        <ICO>35919001</ICO>
+        <DIC>SK2021937775</DIC>
+        <PlatceDPH>1</PlatceDPH>
+        <FyzOsoba>0</FyzOsoba>
+        <Banka>UniCredit Bank Czech Republic and Slovakia, a.s.</Banka>
+        <Ucet>6624859013</Ucet>
+        <KodBanky>1111</KodBanky>
+        <DICSK>2021937775</DICSK>
+      </KonecPrij>
+      <DopravTuz>0</DopravTuz>
+      <DopravZahr>0</DopravZahr>
+      <Sleva>0</Sleva>
+      <Pojisteno>0</Pojisteno>
+      <SeznamPolozek>
+        <Polozka>
+          <Popis>vypracovanie technickej štúdie</Popis>
+          <PocetMJ>1</PocetMJ>
+          <SazbaDPH>20</SazbaDPH>
+          <Cena>49600</Cena>
+          <CenaTyp>0</CenaTyp>
+          <Sleva>0</Sleva>
+          <Poradi>1</Poradi>
+          <Valuty>0</Valuty>
+          <NesklPolozka>
+            <Zaloha>0</Zaloha>
+            <TypZarDoby>N</TypZarDoby>
+            <ZarDoba>0</ZarDoba>
+            <Protizapis>0</Protizapis>
+            <Hmotnost>0</Hmotnost>
+          </NesklPolozka>
+          <CenaPoSleve>1</CenaPoSleve>
+        </Polozka>
+      </SeznamPolozek>
+      <SeznamUhrad>
+        <Uhrada>
+          <DokladUhr>
+            <IDDokladu>488</IDDokladu>
+            <CisloDokladu>BU1800479</CisloDokladu>
+            <DruhDokladu>B</DruhDokladu>
+            <Rok>2018</Rok>
+          </DokladUhr>
+          <DokladHraz>
+            <IDDokladu>42</IDDokladu>
+            <CisloDokladu>FO18042</CisloDokladu>
+            <DruhDokladu>FV</DruhDokladu>
+            <Rok>2018</Rok>
+          </DokladHraz>
+          <Prijem>1</Prijem>
+          <Poradi>367</Poradi>
+          <Datum>2018-07-27</Datum>
+          <Castka>59760</Castka>
+        </Uhrada>
+      </SeznamUhrad>
+      <MojeFirma>
+        <Nazev>HBH Projekt spol. s r.o., Kabátnikova 5 602 00 Brno, Česká republika</Nazev>
+        <Adresa>
+          <Ulice>Ružová dolina 10</Ulice>
+          <Misto>Bratislava</Misto>
+          <PSC>82109</PSC>
+          <Stat>Slovenská republika</Stat>
+          <KodStatu>SK</KodStatu>
+        </Adresa>
+        <ObchNazev>HBH Projekt spol. s r.o., Kabátnikova 5 602 00 Brno, Česká republika</ObchNazev>
+        <ObchAdresa>
+          <Ulice>Ružová dolina 10</Ulice>
+          <Misto>Bratislava</Misto>
+          <PSC>82109</PSC>
+          <Stat>Slovenská republika</Stat>
+          <KodStatu>SK</KodStatu>
+        </ObchAdresa>
+        <Tel>
+          <Pred>02</Pred>
+          <Cislo>55642596</Cislo>
+          <Klap></Klap>
+        </Tel>
+        <Fax>
+          <Pred>02</Pred>
+          <Cislo>55642597</Cislo>
+          <Klap></Klap>
+        </Fax>
+        <Mobil>
+          <Pred>0917</Pred>
+          <Cislo>190715</Cislo>
+        </Mobil>
+        <EMail>k.elekova@hbhprojekt.sk</EMail>
+        <WWW>www.hbh.cz</WWW>
+        <ICO>31815332</ICO>
+        <DIC>SK2021760334</DIC>
+        <DanIC>2021760334</DanIC>
+        <Banka>UniCredit Bank</Banka>
+        <Ucet>1095663003</Ucet>
+        <KodBanky>1111</KodBanky>
+        <KodPartn></KodPartn>
+        <FyzOsoba>0</FyzOsoba>
+        <MenaSymb>€</MenaSymb>
+        <MenaKod>EUR</MenaKod>
+      </MojeFirma>
+    </FaktVyd>
+    <FaktVyd>
+      <Doklad>FO18045</Doklad>
+      <GUID>{A33603BC-84A3-4C57-B7A2-2E649FEB0945}</GUID>
+      <Rada>FO18</Rada>
+      <CisRada>45</CisRada>
+      <UDoklad>BU1800548</UDoklad>
+      <Popis>environmentálny dozor</Popis>
+      <Vystaveno>2018-07-12</Vystaveno>
+      <DatUcPr>2018-06-30</DatUcPr>
+      <PlnenoDPH>2018-06-30</PlnenoDPH>
+      <Splatno>2018-08-11</Splatno>
+      <Uhrazeno>2018-09-06</Uhrazeno>
+      <Doruceno>2018-06-30</Doruceno>
+      <DatSkPoh>2018-06-30</DatSkPoh>
+      <KonstSym>0308</KonstSym>
+      <KodDPH>12U R01_03</KodDPH>
+      <ZjednD>0</ZjednD>
+      <PlnenDPH>0</PlnenDPH>
+      <VarSymbol>18045</VarSymbol>
+      <Zakazka>2015/0089</Zakazka>
+      <CObjednavk>13/60498617</CObjednavk>
+      <Ucet>BU02</Ucet>
+      <Druh>N</Druh>
+      <Dobropis>0</Dobropis>
+      <Uhrada>prevodom</Uhrada>
+      <PredKontac>FV002</PredKontac>
+      <SazbaDPH1>10</SazbaDPH1>
+      <SazbaDPH2>20</SazbaDPH2>
+      <Proplatit>0</Proplatit>
+      <Vyuctovano>0</Vyuctovano>
+      <SouhrnDPH>
+        <Zaklad0>0</Zaklad0>
+        <Zaklad5>0</Zaklad5>
+        <Zaklad22>650</Zaklad22>
+        <DPH5>0</DPH5>
+        <DPH22>130</DPH22>
+      </SouhrnDPH>
+      <Celkem>780</Celkem>
+      <Typ>SIT BA</Typ>
+      <Vystavil>Ing. Katarína Eleková</Vystavil>
+      <PriUhrZbyv>0</PriUhrZbyv>
+      <TextPredFa>Diaľnica D1 Hubová - Ivachnová, číslo kontraktu 60498617 Na základe Zmluvy zo dňa 20.1.2015 s číslom objednávateľa 13/60498617 a s číslom zhotoviteľa 2015/0089 Vám fakturujeme environmentálny dozor za 6/2018 (kód SK NACE 71.12.1) zmluvnú cenu:</TextPredFa>
+      <TextZaFa>Príloha: výkaz dochádzky</TextZaFa>
+      <ValutyProp>0</ValutyProp>
+      <SumZaloha>0</SumZaloha>
+      <SumZalohaC>0</SumZalohaC>
+      <DodOdb>
+        <ObchNazev>AECOM POLSKA Sp. z o.o. organizačná zložka</ObchNazev>
+        <ObchAdresa>
+          <Ulice>A. Bernoláka 6</Ulice>
+          <Misto>Ružomberok</Misto>
+          <PSC>03450</PSC>
+          <Stat>Slovensko</Stat>
+        </ObchAdresa>
+        <FaktNazev>AECOM POLSKA Sp. z o.o. organizačná zložka</FaktNazev>
+        <ICO>46907360</ICO>
+        <DIC>SK4020446507</DIC>
+        <FaktAdresa>
+          <Ulice>A. Bernoláka 6</Ulice>
+          <Misto>Ružomberok</Misto>
+          <PSC>03450</PSC>
+          <Stat>Slovensko</Stat>
+        </FaktAdresa>
+        <GUID>{31332D23-A4BD-45CA-9177-01B328B4D02E}</GUID>
+        <Nazev>AECOM POLSKA Sp. z o.o. organizačná zložka</Nazev>
+        <PlatceDPH>1</PlatceDPH>
+        <FyzOsoba>0</FyzOsoba>
+        <DICSK>4020446507</DICSK>
+      </DodOdb>
+      <KonecPrij>
+        <Nazev>AECOM POLSKA Sp. z o.o. organizačná zložka</Nazev>
+        <Adresa>
+          <Ulice>A. Bernoláka 6</Ulice>
+          <Misto>Ružomberok</Misto>
+          <PSC>03450</PSC>
+          <Stat>Slovensko</Stat>
+        </Adresa>
+        <GUID>{31332D23-A4BD-45CA-9177-01B328B4D02E}</GUID>
+        <ICO>46907360</ICO>
+        <DIC>SK4020446507</DIC>
+        <PlatceDPH>1</PlatceDPH>
+        <FyzOsoba>0</FyzOsoba>
+        <DICSK>4020446507</DICSK>
+      </KonecPrij>
+      <DopravTuz>0</DopravTuz>
+      <DopravZahr>0</DopravZahr>
+      <Sleva>0</Sleva>
+      <Pojisteno>0</Pojisteno>
+      <SeznamPolozek>
+        <Polozka>
+          <Popis>environmentálny dozor</Popis>
+          <PocetMJ>1</PocetMJ>
+          <SazbaDPH>20</SazbaDPH>
+          <Cena>650</Cena>
+          <CenaTyp>0</CenaTyp>
+          <Sleva>0</Sleva>
+          <Poradi>1</Poradi>
+          <Valuty>0</Valuty>
+          <NesklPolozka>
+            <Zaloha>0</Zaloha>
+            <TypZarDoby>N</TypZarDoby>
+            <ZarDoba>0</ZarDoba>
+            <Protizapis>0</Protizapis>
+            <Hmotnost>0</Hmotnost>
+          </NesklPolozka>
+          <CenaPoSleve>1</CenaPoSleve>
+        </Polozka>
+      </SeznamPolozek>
+      <SeznamUhrad>
+        <Uhrada>
+          <DokladUhr>
+            <IDDokladu>557</IDDokladu>
+            <CisloDokladu>BU1800548</CisloDokladu>
+            <DruhDokladu>B</DruhDokladu>
+            <Rok>2018</Rok>
+          </DokladUhr>
+          <DokladHraz>
+            <IDDokladu>45</IDDokladu>
+            <CisloDokladu>FO18045</CisloDokladu>
+            <DruhDokladu>FV</DruhDokladu>
+            <Rok>2018</Rok>
+          </DokladHraz>
+          <Prijem>1</Prijem>
+          <Poradi>413</Poradi>
+          <Datum>2018-09-06</Datum>
+          <Castka>780</Castka>
+        </Uhrada>
+      </SeznamUhrad>
+      <MojeFirma>
+        <Nazev>HBH Projekt spol. s r.o., Kabátnikova 5 602 00 Brno, Česká republika</Nazev>
+        <Adresa>
+          <Ulice>Ružová dolina 10</Ulice>
+          <Misto>Bratislava</Misto>
+          <PSC>82109</PSC>
+          <Stat>Slovenská republika</Stat>
+          <KodStatu>SK</KodStatu>
+        </Adresa>
+        <ObchNazev>HBH Projekt spol. s r.o., Kabátnikova 5 602 00 Brno, Česká republika</ObchNazev>
+        <ObchAdresa>
+          <Ulice>Ružová dolina 10</Ulice>
+          <Misto>Bratislava</Misto>
+          <PSC>82109</PSC>
+          <Stat>Slovenská republika</Stat>
+          <KodStatu>SK</KodStatu>
+        </ObchAdresa>
+        <Tel>
+          <Pred>02</Pred>
+          <Cislo>55642596</Cislo>
+          <Klap></Klap>
+        </Tel>
+        <Fax>
+          <Pred>02</Pred>
+          <Cislo>55642597</Cislo>
+          <Klap></Klap>
+        </Fax>
+        <Mobil>
+          <Pred>0917</Pred>
+          <Cislo>190715</Cislo>
+        </Mobil>
+        <EMail>k.elekova@hbhprojekt.sk</EMail>
+        <WWW>www.hbh.cz</WWW>
+        <ICO>31815332</ICO>
+        <DIC>SK2021760334</DIC>
+        <DanIC>2021760334</DanIC>
+        <Banka>UniCredit Bank</Banka>
+        <Ucet>1095663003</Ucet>
+        <KodBanky>1111</KodBanky>
+        <KodPartn></KodPartn>
+        <FyzOsoba>0</FyzOsoba>
+        <MenaSymb>€</MenaSymb>
+        <MenaKod>EUR</MenaKod>
+      </MojeFirma>
+    </FaktVyd>
+    <FaktVyd>
+      <Doklad>FO18066</Doklad>
+      <GUID>{16705EB9-D7A1-4013-9894-098B7DAF6D65}</GUID>
+      <Rada>FO18</Rada>
+      <CisRada>66</CisRada>
+      <Popis>refakturácia nákladov</Popis>
+      <Vystaveno>2018-10-04</Vystaveno>
+      <DatUcPr>2018-09-30</DatUcPr>
+      <PlnenoDPH>2018-09-30</PlnenoDPH>
+      <Splatno>2018-11-03</Splatno>
+      <Doruceno>2018-09-30</Doruceno>
+      <DatSkPoh>2018-09-30</DatSkPoh>
+      <KonstSym>0308</KonstSym>
+      <KodDPH>12U R01_03</KodDPH>
+      <ZjednD>0</ZjednD>
+      <PlnenDPH>0</PlnenDPH>
+      <VarSymbol>18066</VarSymbol>
+      <Zakazka>2018/0001</Zakazka>
+      <Ucet>BU02</Ucet>
+      <Druh>N</Druh>
+      <Dobropis>0</Dobropis>
+      <Uhrada>prevodom</Uhrada>
+      <PredKontac>FV002</PredKontac>
+      <SazbaDPH1>10</SazbaDPH1>
+      <SazbaDPH2>20</SazbaDPH2>
+      <Proplatit>87.9</Proplatit>
+      <Vyuctovano>0</Vyuctovano>
+      <SouhrnDPH>
+        <Zaklad0>0</Zaklad0>
+        <Zaklad5>0</Zaklad5>
+        <Zaklad22>73.25</Zaklad22>
+        <DPH5>0</DPH5>
+        <DPH22>14.65</DPH22>
+      </SouhrnDPH>
+      <Celkem>87.9</Celkem>
+      <Typ>SIT BA</Typ>
+      <Vystavil>Ing. Katarína Eleková</Vystavil>
+      <PriUhrZbyv>0</PriUhrZbyv>
+      <TextPredFa>Fakturujeme Vám za 3. kvartál 2018 nasledovne:</TextPredFa>
+      <ValutyProp>0</ValutyProp>
+      <SumZaloha>0</SumZaloha>
+      <SumZalohaC>0</SumZalohaC>
+      <DodOdb>
+        <ObchNazev>Link projekt SK s. r. o.</ObchNazev>
+        <ObchAdresa>
+          <Ulice>Partizánska cesta 97</Ulice>
+          <Misto>Banská Bystrica</Misto>
+          <PSC>97401</PSC>
+          <Stat>Slovensko</Stat>
+          <KodStatu>SK</KodStatu>
+        </ObchAdresa>
+        <FaktNazev>Link projekt SK s. r. o.</FaktNazev>
+        <ICO>44750498</ICO>
+        <DIC>SK2022846045</DIC>
+        <FaktAdresa>
+          <Ulice>Partizánska cesta 97</Ulice>
+          <Misto>Banská Bystrica</Misto>
+          <PSC>97401</PSC>
+          <Stat>Slovensko</Stat>
+          <KodStatu>SK</KodStatu>
+        </FaktAdresa>
+        <GUID>{0C941678-23E6-4DB6-AF51-611726CC476A}</GUID>
+        <Nazev>Link projekt SK s. r. o.</Nazev>
+        <PlatceDPH>1</PlatceDPH>
+        <FyzOsoba>0</FyzOsoba>
+        <Banka>Tatra banka a.s.</Banka>
+        <Ucet>2621232153</Ucet>
+        <KodBanky>1100</KodBanky>
+        <DICSK>2022846045</DICSK>
+      </DodOdb>
+      <KonecPrij>
+        <Nazev>Link projekt SK s. r. o.</Nazev>
+        <Adresa>
+          <Ulice>Partizánska cesta 97</Ulice>
+          <Misto>Banská Bystrica</Misto>
+          <PSC>97401</PSC>
+          <Stat>Slovensko</Stat>
+          <KodStatu>SK</KodStatu>
+        </Adresa>
+        <GUID>{0C941678-23E6-4DB6-AF51-611726CC476A}</GUID>
+        <ICO>44750498</ICO>
+        <DIC>SK2022846045</DIC>
+        <PlatceDPH>1</PlatceDPH>
+        <FyzOsoba>0</FyzOsoba>
+        <Banka>Tatra banka a.s.</Banka>
+        <Ucet>2621232153</Ucet>
+        <KodBanky>1100</KodBanky>
+        <DICSK>2022846045</DICSK>
+      </KonecPrij>
+      <DopravTuz>0</DopravTuz>
+      <DopravZahr>0</DopravZahr>
+      <Sleva>0</Sleva>
+      <Pojisteno>0</Pojisteno>
+      <SeznamPolozek>
+        <Polozka>
+          <Popis>kopírovacie služby farebné</Popis>
+          <PocetMJ>823</PocetMJ>
+          <SazbaDPH>20</SazbaDPH>
+          <Cena>0.089</Cena>
+          <CenaTyp>0</CenaTyp>
+          <Sleva>0</Sleva>
+          <Poradi>2</Poradi>
+          <Valuty>0</Valuty>
+          <NesklPolozka>
+            <Zaloha>0</Zaloha>
+            <TypZarDoby>N</TypZarDoby>
+            <ZarDoba>0</ZarDoba>
+            <Protizapis>0</Protizapis>
+            <Hmotnost>0</Hmotnost>
+          </NesklPolozka>
+          <CenaPoSleve>1</CenaPoSleve>
+        </Polozka>
+      </SeznamPolozek>
+      <MojeFirma>
+        <Nazev>HBH Projekt spol. s r.o., Kabátnikova 5 602 00 Brno, Česká republika</Nazev>
+        <Adresa>
+          <Ulice>Ružová dolina 10</Ulice>
+          <Misto>Bratislava</Misto>
+          <PSC>82109</PSC>
+          <Stat>Slovenská republika</Stat>
+          <KodStatu>SK</KodStatu>
+        </Adresa>
+        <ObchNazev>HBH Projekt spol. s r.o., Kabátnikova 5 602 00 Brno, Česká republika</ObchNazev>
+        <ObchAdresa>
+          <Ulice>Ružová dolina 10</Ulice>
+          <Misto>Bratislava</Misto>
+          <PSC>82109</PSC>
+          <Stat>Slovenská republika</Stat>
+          <KodStatu>SK</KodStatu>
+        </ObchAdresa>
+        <Tel>
+          <Pred>02</Pred>
+          <Cislo>55642596</Cislo>
+          <Klap></Klap>
+        </Tel>
+        <Fax>
+          <Pred>02</Pred>
+          <Cislo>55642597</Cislo>
+          <Klap></Klap>
+        </Fax>
+        <Mobil>
+          <Pred>0917</Pred>
+          <Cislo>190715</Cislo>
+        </Mobil>
+        <EMail>k.elekova@hbhprojekt.sk</EMail>
+        <WWW>www.hbh.cz</WWW>
+        <ICO>31815332</ICO>
+        <DIC>SK2021760334</DIC>
+        <DanIC>2021760334</DanIC>
+        <Banka>UniCredit Bank</Banka>
+        <Ucet>1095663003</Ucet>
+        <KodBanky>1111</KodBanky>
+        <KodPartn></KodPartn>
+        <FyzOsoba>0</FyzOsoba>
+        <MenaSymb>€</MenaSymb>
+        <MenaKod>EUR</MenaKod>
+      </MojeFirma>
+    </FaktVyd>
+    <FaktVyd>
+      <Doklad>FO18076</Doklad>
+      <GUID>{2D120683-2C48-4BEF-984A-5030FD6F0210}</GUID>
+      <Rada>FO18</Rada>
+      <CisRada>76</CisRada>
+      <Popis>DSP</Popis>
+      <Vystaveno>2018-10-26</Vystaveno>
+      <DatUcPr>2018-10-24</DatUcPr>
+      <PlnenoDPH>2018-10-24</PlnenoDPH>
+      <Splatno>2018-11-25</Splatno>
+      <Doruceno>2018-10-24</Doruceno>
+      <DatSkPoh>2018-10-24</DatSkPoh>
+      <KonstSym>0308</KonstSym>
+      <KodDPH>12U R01_03</KodDPH>
+      <ZjednD>0</ZjednD>
+      <PlnenDPH>0</PlnenDPH>
+      <VarSymbol>18076</VarSymbol>
+      <Zakazka>2018/0420</Zakazka>
+      <CObjednavk>1459/2018/ORA-IP</CObjednavk>
+      <Ucet>BU02</Ucet>
+      <Druh>N</Druh>
+      <Dobropis>0</Dobropis>
+      <Uhrada>prevodom</Uhrada>
+      <PredKontac>FV002</PredKontac>
+      <SazbaDPH1>10</SazbaDPH1>
+      <SazbaDPH2>20</SazbaDPH2>
+      <Proplatit>30425.76</Proplatit>
+      <Vyuctovano>0</Vyuctovano>
+      <SouhrnDPH>
+        <Zaklad0>0</Zaklad0>
+        <Zaklad5>0</Zaklad5>
+        <Zaklad22>25354.8</Zaklad22>
+        <DPH5>0</DPH5>
+        <DPH22>5070.96</DPH22>
+      </SouhrnDPH>
+      <Celkem>30425.76</Celkem>
+      <Typ>SIT BA</Typ>
+      <Vystavil>Ing. Katarína Eleková</Vystavil>
+      <PriUhrZbyv>0</PriUhrZbyv>
+      <TextPredFa>Dokumentácia pre stavebné povolenie, resp. ohlásenie stavby v podrobnosti realizačného projektu. Na základe Zmluvy o dielo zo dňa 5.6.2018 s číslom objednávateľa 1459/2018/ORA-IP a s číslom zhotoviteľa 2018/0420 Vám fakturujeme (kód SK NACE 71.12.1) zmluvnú cenu:</TextPredFa>
+      <TextZaFa>Príloha: Protokol o prevzatí</TextZaFa>
+      <ValutyProp>0</ValutyProp>
+      <SumZaloha>0</SumZaloha>
+      <SumZalohaC>0</SumZalohaC>
+      <DodOdb>
+        <ObchNazev>Mesto Banská Bystrica</ObchNazev>
+        <ObchAdresa>
+          <Ulice>Československej armády 26</Ulice>
+          <Misto>Banská Bystrica</Misto>
+          <PSC>97539</PSC>
+          <Stat>Slovensko</Stat>
+        </ObchAdresa>
+        <FaktNazev>Mesto Banská Bystrica</FaktNazev>
+        <ICO>00313271</ICO>
+        <FaktAdresa>
+          <Ulice>Československej armády 26</Ulice>
+          <Misto>Banská Bystrica</Misto>
+          <PSC>97539</PSC>
+          <Stat>Slovensko</Stat>
+        </FaktAdresa>
+        <GUID>{8132AA28-FA7A-44C9-BC08-AD22186E782C}</GUID>
+        <Nazev>Mesto Banská Bystrica</Nazev>
+        <PlatceDPH>0</PlatceDPH>
+        <FyzOsoba>0</FyzOsoba>
+        <DICSK>2020451587</DICSK>
+      </DodOdb>
+      <KonecPrij>
+        <Nazev>Mesto Banská Bystrica</Nazev>
+        <Adresa>
+          <Ulice>Československej armády 26</Ulice>
+          <Misto>Banská Bystrica</Misto>
+          <PSC>97539</PSC>
+          <Stat>Slovensko</Stat>
+        </Adresa>
+        <GUID>{8132AA28-FA7A-44C9-BC08-AD22186E782C}</GUID>
+        <ICO>00313271</ICO>
+        <PlatceDPH>0</PlatceDPH>
+        <FyzOsoba>0</FyzOsoba>
+        <DICSK>2020451587</DICSK>
+      </KonecPrij>
+      <DopravTuz>0</DopravTuz>
+      <DopravZahr>0</DopravZahr>
+      <Sleva>0</Sleva>
+      <Pojisteno>0</Pojisteno>
+      <SeznamPolozek>
+        <Polozka>
+          <Popis>DSP</Popis>
+          <PocetMJ>1</PocetMJ>
+          <SazbaDPH>20</SazbaDPH>
+          <Cena>30425.76</Cena>
+          <CenaTyp>1</CenaTyp>
+          <Sleva>0</Sleva>
+          <Poradi>1</Poradi>
+          <Valuty>0</Valuty>
+          <NesklPolozka>
+            <Zaloha>0</Zaloha>
+            <TypZarDoby>N</TypZarDoby>
+            <ZarDoba>0</ZarDoba>
+            <Protizapis>0</Protizapis>
+            <Hmotnost>0</Hmotnost>
+          </NesklPolozka>
+          <CenaPoSleve>1</CenaPoSleve>
+        </Polozka>
+      </SeznamPolozek>
+      <MojeFirma>
+        <Nazev>HBH Projekt spol. s r.o., Kabátnikova 5 602 00 Brno, Česká republika</Nazev>
+        <Adresa>
+          <Ulice>Ružová dolina 10</Ulice>
+          <Misto>Bratislava</Misto>
+          <PSC>82109</PSC>
+          <Stat>Slovenská republika</Stat>
+          <KodStatu>SK</KodStatu>
+        </Adresa>
+        <ObchNazev>HBH Projekt spol. s r.o., Kabátnikova 5 602 00 Brno, Česká republika</ObchNazev>
+        <ObchAdresa>
+          <Ulice>Ružová dolina 10</Ulice>
+          <Misto>Bratislava</Misto>
+          <PSC>82109</PSC>
+          <Stat>Slovenská republika</Stat>
+          <KodStatu>SK</KodStatu>
+        </ObchAdresa>
+        <Tel>
+          <Pred>02</Pred>
+          <Cislo>55642596</Cislo>
+          <Klap></Klap>
+        </Tel>
+        <Fax>
+          <Pred>02</Pred>
+          <Cislo>55642597</Cislo>
+          <Klap></Klap>
+        </Fax>
+        <Mobil>
+          <Pred>0917</Pred>
+          <Cislo>190715</Cislo>
+        </Mobil>
+        <EMail>k.elekova@hbhprojekt.sk</EMail>
+        <WWW>www.hbh.cz</WWW>
+        <ICO>31815332</ICO>
+        <DIC>SK2021760334</DIC>
+        <DanIC>2021760334</DanIC>
+        <Banka>UniCredit Bank</Banka>
+        <Ucet>1095663003</Ucet>
+        <KodBanky>1111</KodBanky>
+        <KodPartn></KodPartn>
+        <FyzOsoba>0</FyzOsoba>
+        <MenaSymb>€</MenaSymb>
+        <MenaKod>EUR</MenaKod>
+      </MojeFirma>
+    </FaktVyd>
+  </SeznamFaktVyd>
+  <SeznamFaktVyd_DPP/>
+</MoneyData>
