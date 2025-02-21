@@ -92,6 +92,30 @@ function transformXml(xmlDoc) {
         
         faktPrij.appendChild(zakazka);
 
+        const souhrnDPH = xmlDoc.createElement('SouhrnDPH');
+
+        const zaklad0 = xmlDoc.createElement('Zaklad0');
+        zaklad0.textContent = fakturaPrijata.getElementsByTagName('DPH0')[0]?.getElementsByTagName('Zaklad')[0]?.textContent || 0;
+        souhrnDPH.appendChild(zaklad0);
+        const zaklad5 = xmlDoc.createElement('Zaklad5');
+        zaklad5.textContent = fakturaPrijata.getElementsByTagName('DPH1')[0]?.getElementsByTagName('Zaklad')[0]?.textContent || 0;
+        souhrnDPH.appendChild(zaklad5);
+        const zaklad22 = xmlDoc.createElement('Zaklad22');
+        zaklad22.textContent = fakturaPrijata.getElementsByTagName('DPH2')[0]?.getElementsByTagName('Zaklad')[0]?.textContent || 0;
+        souhrnDPH.appendChild(zaklad22);
+        const dph5 = xmlDoc.createElement('DPH5');
+        dph5.textContent = fakturaPrijata.getElementsByTagName('DPH1')[0]?.getElementsByTagName('Dan')[0]?.textContent || 0;
+        souhrnDPH.appendChild(dph5);
+        const dph22 = xmlDoc.createElement('DPH22');
+        dph22.textContent = fakturaPrijata.getElementsByTagName('DPH2')[0]?.getElementsByTagName('Dan')[0]?.textContent || 0;
+        souhrnDPH.appendChild(dph22);
+
+        faktPrij.appendChild(souhrnDPH);
+
+        const celkem = xmlDoc.createElement('Celkem');
+        celkem.textContent = fakturaPrijata.getElementsByTagName('CenaCelkem')[0]?.textContent || '';
+        faktPrij.appendChild(celkem);
+
         const dodOdb = xmlDoc.createElement('DodOdb');
 
         const obchNazevDodOdb = xmlDoc.createElement('ObchNazev');
@@ -141,6 +165,8 @@ function transformXml(xmlDoc) {
             seznamPolozek.appendChild(newPolozka);
         }
         faktPrij.appendChild(seznamPolozek);
+        //if seznamPolozek does not contain any items, remove it from 
+
 
 
         const mojeFirmaS4 = fakturaPrijata.getElementsByTagName('MojeFirma')[0];
