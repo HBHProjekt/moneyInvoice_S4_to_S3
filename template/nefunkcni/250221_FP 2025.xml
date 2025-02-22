@@ -1,0 +1,737 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<S5Data>
+  <FakturaPrijataList>
+    <FakturaPrijata ID="be29ebcb-26a4-471f-8227-11c354a8b242">
+      <Group ID="e09260ac-dd18-46c4-a24f-477668aff701" Kod="FP 2025" />
+      <AdresaKoncovehoPrijemceEmailSpojeni_ID />
+      <AdresaKoncovehoPrijemceKontaktniOsoba_ID />
+      <AdresaKoncovehoPrijemceStat_ID />
+      <AdresaKoncovehoPrijemceTelefonSpojeni_ID />
+      <AdresaKontaktniOsoba_ID />
+      <AdresaPrijemceFakturyKontaktniOsoba_ID />
+      <AdresaPrijemceFakturyStat_ID>3d3f235c-df25-42ad-9cce-1b460e3a3c5f</AdresaPrijemceFakturyStat_ID>
+      <AdresaStat_ID>3d3f235c-df25-42ad-9cce-1b460e3a3c5f</AdresaStat_ID>
+      <Banka_ID>4733d9bb-a741-452b-aa93-9c1680469f14</Banka_ID>
+      <BankovniSpojeniFirmy_ID>d697d0e5-a286-4f5b-a46b-496a535bd24f</BankovniSpojeniFirmy_ID>
+      <CasSkladovehoPohybu>1754-01-01T12:00:00</CasSkladovehoPohybu>
+      <CelkovaCastka>0.00</CelkovaCastka>
+      <CelkovaCastkaCM>0.00</CelkovaCastkaCM>
+      <CenaCelkem>430.00</CenaCelkem>
+      <CenaCelkemCM>430.00</CenaCelkemCM>
+      <Cinnost_ID />
+      <CiselnaRada_ID>056780c8-e361-4b01-a367-73779dbd906b</CiselnaRada_ID>
+      <CisloDokladu>FP25100126</CisloDokladu>
+      <CisloRady>126</CisloRady>
+      <CleneniDPH_ID>bd0fe7aa-10a4-4fcc-8ad3-dc7a779ebc3e</CleneniDPH_ID>
+      <DatumDruheUpominky>1753-01-01T00:00:00</DatumDruheUpominky>
+      <DatumPlneni>2025-01-22T00:00:00</DatumPlneni>
+      <DatumPosledniPenalizace>1753-01-01T00:00:00</DatumPosledniPenalizace>
+      <DatumPosledniUpominky>1753-01-01T00:00:00</DatumPosledniUpominky>
+      <DatumPrikazu>1753-01-01T00:00:00</DatumPrikazu>
+      <DatumPrvniUpominky>1753-01-01T00:00:00</DatumPrvniUpominky>
+      <DatumSchvaleni>2025-01-24T00:00:00</DatumSchvaleni>
+      <DatumSkladovehoPohybu>2025-01-23T00:00:00</DatumSkladovehoPohybu>
+      <DatumSplatnosti>2025-01-23T00:00:00</DatumSplatnosti>
+      <DatumUcetnihoPripadu>2025-01-23T00:00:00</DatumUcetnihoPripadu>
+      <DatumUhrady>2025-01-23T00:00:00</DatumUhrady>
+      <DatumUplatneni>2025-01-23T00:00:00</DatumUplatneni>
+      <DatumVystaveni>2025-01-23T00:00:00</DatumVystaveni>
+      <DatumZauctovani>2025-02-21T00:00:00</DatumZauctovani>
+      <DIC>CZ28522648</DIC>
+      <DodaciAdresaFirma_ID />
+      <DodaciPodminky_ID />
+      <DodaciPodminkyIncoterms_ID />
+      <DomaciMena_ID>00f9adb2-d300-42c3-9240-ae1320b019cc</DomaciMena_ID>
+      <DruhDokladu_ID>7801d0c6-b6e5-4923-b664-56f711a4a698</DruhDokladu_ID>
+      <DruhDopravy_ID />
+      <DruhPohybu_ID>18d68213-6e13-44c2-a823-884ada146526</DruhPohybu_ID>
+      <DruhSkladovehoPohybu_ID>5a7e0dfa-e1c8-4020-b05e-099349c2d6d5</DruhSkladovehoPohybu_ID>
+      <ExistujeReverseCharge>False</ExistujeReverseCharge>
+      <FakturacniAdresaFirma_ID>7460d5da-71ed-4b74-b702-96fa531fa182</FakturacniAdresaFirma_ID>
+      <Faze EnumValueName="Aktivni">1</Faze>
+      <Firma_ID>7460d5da-71ed-4b74-b702-96fa531fa182</Firma_ID>
+      <GenerovatSkladovyDoklad>True</GenerovatSkladovyDoklad>
+      <IC>28522648</IC>
+      <ICDPH />
+      <IDKrajPuvodu_ID />
+      <iDokladAgendaID>0</iDokladAgendaID>
+      <iDokladID>0</iDokladID>
+      <IDPovahaTransakce_ID />
+      <Jmeno />
+      <KombinovanaNomenklatura_ID />
+      <KonecnyPrijemce_ID />
+      <KonstantniSymbol_ID>8d07b236-af15-4fff-9347-e01db00ab1de</KonstantniSymbol_ID>
+      <KonstantniSymbolText>0308</KonstantniSymbolText>
+      <KorekceEditovatDomaciMenuBezPrepoctu>False</KorekceEditovatDomaciMenuBezPrepoctu>
+      <KUhrade>0.00</KUhrade>
+      <KUhradeCM>0.00</KUhradeCM>
+      <Mena_ID>00f9adb2-d300-42c3-9240-ae1320b019cc</Mena_ID>
+      <MojeFirma_ID>863163fc-bb49-4d30-bb1a-aa2c93cfb2c2</MojeFirma_ID>
+      <MojeFirmaBanka_ID>6aaa6c7c-4844-42d9-a027-e5af0d077154</MojeFirmaBanka_ID>
+      <MojeFirmaBankovniSpojeni_ID>400f4d01-cacf-4820-bd1d-319b6b9fcda5</MojeFirmaBankovniSpojeni_ID>
+      <MojeFirmaFirma_ID />
+      <MojeFirmaKontaktniOsoba_ID />
+      <MojeFirmaStat_ID>3d3f235c-df25-42ad-9cce-1b460e3a3c5f</MojeFirmaStat_ID>
+      <NakladyUzavreny>False</NakladyUzavreny>
+      <Nazev>CNL INVEST - vyjádření Ořechov</Nazev>
+      <NedobytnaPohledavka>False</NedobytnaPohledavka>
+      <Obchodnik_ID />
+      <Odkaz />
+      <OdkazNaDoklad>2551001250</OdkazNaDoklad>
+      <OdpoctyZaloh2010>False</OdpoctyZaloh2010>
+      <Osoba_ID />
+      <ParovaciSymbol>2550001053</ParovaciSymbol>
+      <PocetPolozek>1</PocetPolozek>
+      <PovahaTransakce_ID />
+      <Poznamka />
+      <Predkontace_ID>0dda1b70-f002-413e-a47e-a9902dfb2100</Predkontace_ID>
+      <PredkontaceZaokrouhleni_ID>ffb379f2-b7b6-4e62-aac2-c1bb6b7d1d36</PredkontaceZaokrouhleni_ID>
+      <PreneseniDane_ID />
+      <PrijemceFaktury_ID />
+      <Prikazy>0.00</Prikazy>
+      <PrikazyCM>0.00</PrikazyCM>
+      <PrikazyZbyva>0.00</PrikazyZbyva>
+      <PrikazyZbyvaCM>0.00</PrikazyZbyvaCM>
+      <PrimarniUcet_ID />
+      <PriznakVyrizeno>False</PriznakVyrizeno>
+      <Protiucet />
+      <PuvodniDoklad />
+      <RegistraceDPH_ID>c1fde986-b93b-4090-a36d-9a04a57d3037</RegistraceDPH_ID>
+      <SazbaDPH0_ID>4940de08-8927-4731-ac4a-88f5aec97093</SazbaDPH0_ID>
+      <SazbaDPH1_ID>ca71c934-2058-45ba-ba4f-7c9000e330fa</SazbaDPH1_ID>
+      <SazbaDPH2_ID>b7d9bd88-bf7e-4c11-be49-2044879c871c</SazbaDPH2_ID>
+      <Schvaleno>True</Schvaleno>
+      <Schvalil_ID>7d311fb1-8038-4bc7-9c9f-24b559397ce6</Schvalil_ID>
+      <Sleva>0.00</Sleva>
+      <SpecifickySymbol />
+      <Stat_ID />
+      <StatPuvodu_ID />
+      <StatUrceniOdeslani_ID />
+      <Stav EnumValueName="Rozpracovano">0</Stav>
+      <Storno EnumValueName="NeniStorno">0</Storno>
+      <Stredisko_ID>9b17ec26-68d1-4479-8916-c1a2f65f0f98</Stredisko_ID>
+      <Systemovy>False</Systemovy>
+      <TypDokladu EnumValueName="Neurceny">0</TypDokladu>
+      <UcetDal_ID />
+      <UcetMD_ID />
+      <Uhrady>0.00</Uhrady>
+      <UhradyCM>0.00</UhradyCM>
+      <UhradyZbyva>0.00</UhradyZbyva>
+      <UhradyZbyvaCM>0.00</UhradyZbyvaCM>
+      <VariabilniSymbol>2551001250</VariabilniSymbol>
+      <Vyrizeno>0</Vyrizeno>
+      <Vystavil>Ladislava Hrazdílková</Vystavil>
+      <Zakazka_ID>5f4660d4-2769-4fa0-bb7c-224e3173d7e4</Zakazka_ID>
+      <ZakladBezZaloh>355.37</ZakladBezZaloh>
+      <Zalohy>430.00</Zalohy>
+      <ZalohyCM>430.00</ZalohyCM>
+      <ZaokrouhleniCelkovaCastka_ID />
+      <ZaokrouhleniDPH_ID />
+      <ZaokrouhleniSazbaDPH_ID>ca71c934-2058-45ba-ba4f-7c9000e330fa</ZaokrouhleniSazbaDPH_ID>
+      <ZapornyPohyb>False</ZapornyPohyb>
+      <Zauctoval_ID>7d311fb1-8038-4bc7-9c9f-24b559397ce6</Zauctoval_ID>
+      <Zauctovano>True</Zauctovano>
+      <Zaverkovy>False</Zaverkovy>
+      <ZjednodusenyDanovyDoklad>False</ZjednodusenyDanovyDoklad>
+      <ZpusobDopravy_ID />
+      <ZpusobPlatby_ID>d3b43f46-2cdd-413f-b51c-ad9096771980</ZpusobPlatby_ID>
+      <ZpusobUplatneniOdpoctuDPH EnumValueName="Zauctovani">0</ZpusobUplatneniOdpoctuDPH>
+      <ZpusobVypoctuDPH EnumValueName="Neurceno">2</ZpusobVypoctuDPH>
+      <ZvlastniPohyb_ID />
+      <Adresa>
+        <KontaktniOsobaJmeno />
+        <KontaktniOsobaNazev />
+        <KontaktniOsobaPrijmeni />
+        <Misto>Praha 5</Misto>
+        <Nazev>CNL INVEST s.r.o.</Nazev>
+        <PSC>15500</PSC>
+        <Stat>Česká republika</Stat>
+        <Ulice>Ke klubovně 1650/9</Ulice>
+        <AdresaStat ObjectName="Stat" ObjectType="Object" ID="3d3f235c-df25-42ad-9cce-1b460e3a3c5f" />
+        <Firma ObjectName="Firma" ObjectType="Object" ID="7460d5da-71ed-4b74-b702-96fa531fa182" />
+      </Adresa>
+      <AdresaKoncovehoPrijemce>
+        <Email />
+        <KontaktniOsobaNazev />
+        <Misto />
+        <Nazev />
+        <PSC />
+        <Stat />
+        <Telefon />
+        <Ulice />
+      </AdresaKoncovehoPrijemce>
+      <AdresaPrijemceFaktury>
+        <KontaktniOsobaNazev />
+        <Misto>Praha 5</Misto>
+        <Nazev>CNL INVEST s.r.o.</Nazev>
+        <PSC>15500</PSC>
+        <Stat>Česká republika</Stat>
+        <Ulice>Ke klubovně 1650/9</Ulice>
+        <AdresaStat ObjectName="Stat" ObjectType="Object" ID="3d3f235c-df25-42ad-9cce-1b460e3a3c5f" />
+        <Firma ObjectName="Firma" ObjectType="Object" ID="7460d5da-71ed-4b74-b702-96fa531fa182" />
+      </AdresaPrijemceFaktury>
+      <BankovniSpojeni>
+        <CisloUctu>2501523917</CisloUctu>
+        <IBAN>CZ0320100000002501523917</IBAN>
+        <SpecifickySymbol />
+        <SWIFT>FIOBCZPP</SWIFT>
+        <Banka ObjectName="Banka" ObjectType="Object" ID="4733d9bb-a741-452b-aa93-9c1680469f14">
+          <Group ID="ef04d885-1a39-4c48-a7a8-eb797000fd62" Kod="BAN" />
+        </Banka>
+        <BankovniSpojeniFirmy ObjectName="BankovniSpojeni" ObjectType="Object" ID="d697d0e5-a286-4f5b-a46b-496a535bd24f" />
+      </BankovniSpojeni>
+      <DPH0>
+        <Celkem>-430.00</Celkem>
+        <CelkemCM>-430.00</CelkemCM>
+        <Dan>0.00</Dan>
+        <DanCM>0.00</DanCM>
+        <Sazba>0.00</Sazba>
+        <Zaklad>-430.00</Zaklad>
+        <ZakladCM>-430.00</ZakladCM>
+      </DPH0>
+      <DPH1>
+        <Celkem>0.00</Celkem>
+        <CelkemCM>0.00</CelkemCM>
+        <Dan>0.00</Dan>
+        <DanCM>0.00</DanCM>
+        <Sazba>12.00</Sazba>
+        <Zaklad>0.00</Zaklad>
+        <ZakladCM>0.00</ZakladCM>
+      </DPH1>
+      <DPH2>
+        <Celkem>430.00</Celkem>
+        <CelkemCM>430.00</CelkemCM>
+        <Dan>74.63</Dan>
+        <DanCM>74.63</DanCM>
+        <Sazba>21.00</Sazba>
+        <Zaklad>355.37</Zaklad>
+        <ZakladCM>355.37</ZakladCM>
+      </DPH2>
+      <IntrastatDoklad>
+        <Datum>2025-01-23T00:00:00</Datum>
+        <DopravaTuzemsko>0.00</DopravaTuzemsko>
+        <DopravaZahranici>0.00</DopravaZahranici>
+        <DopravniNaklady>0.00</DopravniNaklady>
+        <IneICDPH />
+        <OvlivnujeIntrastat>False</OvlivnujeIntrastat>
+        <RozpousteniNakladu EnumValueName="CenaZbozi">0</RozpousteniNakladu>
+        <VyvozBezICDPH EnumValueName="Prazdne">0</VyvozBezICDPH>
+      </IntrastatDoklad>
+      <Korekce0>
+        <Celkem>0.00</Celkem>
+        <CelkemCM>0.00</CelkemCM>
+        <Dan>0.00</Dan>
+        <DanCM>0.00</DanCM>
+        <Sazba>0.00</Sazba>
+        <Zaklad>0.00</Zaklad>
+        <ZakladCM>0.00</ZakladCM>
+      </Korekce0>
+      <Korekce1>
+        <Celkem>0.00</Celkem>
+        <CelkemCM>0.00</CelkemCM>
+        <Dan>0.00</Dan>
+        <DanCM>0.00</DanCM>
+        <Sazba>12.00</Sazba>
+        <Zaklad>0.00</Zaklad>
+        <ZakladCM>0.00</ZakladCM>
+      </Korekce1>
+      <Korekce2>
+        <Celkem>0.00</Celkem>
+        <CelkemCM>0.00</CelkemCM>
+        <Dan>0.00</Dan>
+        <DanCM>0.00</DanCM>
+        <Sazba>21.00</Sazba>
+        <Zaklad>0.00</Zaklad>
+        <ZakladCM>0.00</ZakladCM>
+      </Korekce2>
+      <MojeFirma>
+        <DIC>CZ44961944</DIC>
+        <IC>44961944</IC>
+        <ICDPH />
+        <Misto>Brno</Misto>
+        <Nazev>HBH Projekt spol. s r.o.</Nazev>
+        <PSC>60200</PSC>
+        <Stat>Česká republika</Stat>
+        <Ulice>Kabátníkova 216/5</Ulice>
+        <BankovniSpojeni>
+          <CiselnyKod>0100</CiselnyKod>
+          <CisloUctu>6984190237</CisloUctu>
+          <IBAN>CZ4601000000006984190237</IBAN>
+          <SpecifickySymbol />
+          <SWIFT>KOMBCZPP</SWIFT>
+          <Banka ObjectName="Banka" ObjectType="Object" ID="6aaa6c7c-4844-42d9-a027-e5af0d077154">
+            <Group ID="ef04d885-1a39-4c48-a7a8-eb797000fd62" Kod="BAN" />
+          </Banka>
+          <BankovniSpojeni ObjectName="BankovniSpojeni" ObjectType="Object" ID="400f4d01-cacf-4820-bd1d-319b6b9fcda5" />
+        </BankovniSpojeni>
+        <Kontakty>
+          <Email>l.hrazdilkova@hbh.cz</Email>
+          <Telefon1>+420 549 123 428</Telefon1>
+          <Telefon2 />
+          <Telefon3 />
+          <WWW>www.hbh.cz</WWW>
+        </Kontakty>
+        <Osoba>
+          <Jmeno />
+          <Nazev />
+          <Prijmeni />
+        </Osoba>
+        <Firma ObjectName="Firma" ObjectType="Object" ID="863163fc-bb49-4d30-bb1a-aa2c93cfb2c2" />
+        <MojeFirmaStat ObjectName="Stat" ObjectType="Object" ID="3d3f235c-df25-42ad-9cce-1b460e3a3c5f" />
+      </MojeFirma>
+      <Naklady>
+        <CastkaKCerpani>0.00</CastkaKCerpani>
+        <CerpanaCastka>0.00</CerpanaCastka>
+        <CerpaneProcento>0.00</CerpaneProcento>
+        <NakladovaFaktura>False</NakladovaFaktura>
+      </Naklady>
+      <PreneseniDane>
+        <KombinovanaNomenklaturaKod />
+        <PomerMnozstviMJ>0.0000</PomerMnozstviMJ>
+      </PreneseniDane>
+      <Suma>
+        <Celkem>0.00</Celkem>
+        <CelkemCM>0.00</CelkemCM>
+        <Dan>74.63</Dan>
+        <DanCM>74.63</DanCM>
+        <Zaklad>-74.63</Zaklad>
+        <ZakladCM>-74.63</ZakladCM>
+      </Suma>
+      <Texty>
+        <PredCenami>zkouška</PredCenami>
+        <ZaCenami />
+      </Texty>
+      <UcetniKurz>
+        <Kurz>1.000000</Kurz>
+        <Mnozstvi>1.000000</Mnozstvi>
+      </UcetniKurz>
+      <Zaokrouhleni>
+        <DruhSazbyDPH EnumValueName="Snizena">0</DruhSazbyDPH>
+        <PrevazujiciSazbaDPH>True</PrevazujiciSazbaDPH>
+        <SazbaDPH ObjectName="SazbaDPH" ObjectType="Object" ID="ca71c934-2058-45ba-ba4f-7c9000e330fa" />
+      </Zaokrouhleni>
+      <CiselnaRada ObjectName="CiselnaRada" ObjectType="Object" ID="056780c8-e361-4b01-a367-73779dbd906b" />
+      <CleneniDPH ObjectName="CleneniDPH" ObjectType="Object" ID="bd0fe7aa-10a4-4fcc-8ad3-dc7a779ebc3e" />
+      <DetailniRozpisDPH ObjectName="DetailniRozpisDPH" ObjectType="List">
+        <DetailniRozpisDPH ObjectName="DetailniRozpisDPH" ObjectType="Object" ID="a9389525-7f44-4caf-8d07-c1ccd0fde5ac">
+          <CleneniDPH_ID>bd0fe7aa-10a4-4fcc-8ad3-dc7a779ebc3e</CleneniDPH_ID>
+          <KombinovanaNomenklatura_ID />
+          <KombinovanaNomenklaturaKod />
+          <KorekceCelkem>0.00</KorekceCelkem>
+          <KorekceCelkemCM>0.00</KorekceCelkemCM>
+          <KorekceDPH>0.00</KorekceDPH>
+          <KorekceDPHCM>0.00</KorekceDPHCM>
+          <KorekceZaklad>0.00</KorekceZaklad>
+          <KorekceZakladCM>0.00</KorekceZakladCM>
+          <Kurz>1.000000</Kurz>
+          <KurzMnozstvi>1.000000</KurzMnozstvi>
+          <Mena_ID>00f9adb2-d300-42c3-9240-ae1320b019cc</Mena_ID>
+          <MenaJeCM>False</MenaJeCM>
+          <PolozkyCelkem>430.00</PolozkyCelkem>
+          <PolozkyCelkemCM>430.00</PolozkyCelkemCM>
+          <PolozkyDPH>74.63</PolozkyDPH>
+          <PolozkyDPHCM>74.63</PolozkyDPHCM>
+          <PolozkyZaklad>355.37</PolozkyZaklad>
+          <PolozkyZakladCM>355.37</PolozkyZakladCM>
+          <PreneseniDaneMnozstviMJ>0.00</PreneseniDaneMnozstviMJ>
+          <PreneseniDanovePovinnosti_ID />
+          <SazbaDPH_ID>b7d9bd88-bf7e-4c11-be49-2044879c871c</SazbaDPH_ID>
+          <SumaCelkem>430.00</SumaCelkem>
+          <SumaCelkemCM>430.00</SumaCelkemCM>
+          <SumaDPH>74.63</SumaDPH>
+          <SumaDPHCM>74.63</SumaDPHCM>
+          <SumaZaklad>355.37</SumaZaklad>
+          <SumaZakladCM>355.37</SumaZakladCM>
+          <Zdroj EnumValueName="Polozka">0</Zdroj>
+          <CleneniDPH ObjectName="CleneniDPH" ObjectType="Object" ID="bd0fe7aa-10a4-4fcc-8ad3-dc7a779ebc3e" />
+          <Mena ObjectName="Mena" ObjectType="Object" ID="00f9adb2-d300-42c3-9240-ae1320b019cc" />
+          <SazbaDPH ObjectName="SazbaDPH" ObjectType="Object" ID="b7d9bd88-bf7e-4c11-be49-2044879c871c" />
+        </DetailniRozpisDPH>
+        <DetailniRozpisDPH ObjectName="DetailniRozpisDPH" ObjectType="Object" ID="db6a50de-e06b-44ae-b000-b225b1b3b46e">
+          <CleneniDPH_ID>56ce0d24-81bf-4b5b-adfa-a97abd4f0be5</CleneniDPH_ID>
+          <KombinovanaNomenklatura_ID />
+          <KombinovanaNomenklaturaKod />
+          <KorekceCelkem>0.00</KorekceCelkem>
+          <KorekceCelkemCM>0.00</KorekceCelkemCM>
+          <KorekceDPH>0.00</KorekceDPH>
+          <KorekceDPHCM>0.00</KorekceDPHCM>
+          <KorekceZaklad>0.00</KorekceZaklad>
+          <KorekceZakladCM>0.00</KorekceZakladCM>
+          <Kurz>1.000000</Kurz>
+          <KurzMnozstvi>1.000000</KurzMnozstvi>
+          <Mena_ID>00f9adb2-d300-42c3-9240-ae1320b019cc</Mena_ID>
+          <MenaJeCM>False</MenaJeCM>
+          <PolozkyCelkem>-430.00</PolozkyCelkem>
+          <PolozkyCelkemCM>-430.00</PolozkyCelkemCM>
+          <PolozkyDPH>0.00</PolozkyDPH>
+          <PolozkyDPHCM>0.00</PolozkyDPHCM>
+          <PolozkyZaklad>-430.00</PolozkyZaklad>
+          <PolozkyZakladCM>-430.00</PolozkyZakladCM>
+          <PreneseniDaneMnozstviMJ>0.00</PreneseniDaneMnozstviMJ>
+          <PreneseniDanovePovinnosti_ID />
+          <SazbaDPH_ID>4940de08-8927-4731-ac4a-88f5aec97093</SazbaDPH_ID>
+          <SumaCelkem>-430.00</SumaCelkem>
+          <SumaCelkemCM>-430.00</SumaCelkemCM>
+          <SumaDPH>0.00</SumaDPH>
+          <SumaDPHCM>0.00</SumaDPHCM>
+          <SumaZaklad>-430.00</SumaZaklad>
+          <SumaZakladCM>-430.00</SumaZakladCM>
+          <Zdroj EnumValueName="OdpocetZalohy">4</Zdroj>
+          <CleneniDPH ObjectName="CleneniDPH" ObjectType="Object" ID="56ce0d24-81bf-4b5b-adfa-a97abd4f0be5" />
+          <Mena ObjectName="Mena" ObjectType="Object" ID="00f9adb2-d300-42c3-9240-ae1320b019cc" />
+          <SazbaDPH ObjectName="SazbaDPH" ObjectType="Object" ID="4940de08-8927-4731-ac4a-88f5aec97093" />
+        </DetailniRozpisDPH>
+      </DetailniRozpisDPH>
+      <DokladInfo ObjectName="DokladInfo" ObjectType="List" />
+      <DomaciMena ObjectName="Mena" ObjectType="Object" ID="00f9adb2-d300-42c3-9240-ae1320b019cc" />
+      <DruhDokladu ObjectName="DruhDokladu" ObjectType="Object" ID="7801d0c6-b6e5-4923-b664-56f711a4a698" />
+      <DruhPohybu ObjectName="DruhPohybuZasoby" ObjectType="Object" ID="18d68213-6e13-44c2-a823-884ada146526" />
+      <DruhSkladovehoPohybu ObjectName="DruhPohybuZasoby" ObjectType="Object" ID="5a7e0dfa-e1c8-4020-b05e-099349c2d6d5" />
+      <KonstantniSymbol ObjectName="KonstantniSymbol" ObjectType="Object" ID="8d07b236-af15-4fff-9347-e01db00ab1de" />
+      <Mena ObjectName="Mena" ObjectType="Object" ID="00f9adb2-d300-42c3-9240-ae1320b019cc" />
+      <NakladoveDoklady ObjectName="VazbaRozpousteniNakladu" ObjectType="List" />
+      <OdpoctyZaloh ObjectName="OdpocetZalohy" ObjectType="List">
+        <OdpocetZalohy ObjectName="OdpocetZalohy" ObjectType="Object" ID="64e26ad1-a4d9-4673-8d9d-d4ffaaa9ea77">
+          <CastkaZalohyCM>430.00</CastkaZalohyCM>
+          <CastkaZalohyDM>0.00</CastkaZalohyDM>
+          <CelkovaCena>430.00</CelkovaCena>
+          <CelkovaCenaCM>430.00</CelkovaCenaCM>
+          <Cinnost_ID />
+          <CisloPolozky>2</CisloPolozky>
+          <CleneniDPH_ID>56ce0d24-81bf-4b5b-adfa-a97abd4f0be5</CleneniDPH_ID>
+          <DokladObjectName>FakturaPrijata</DokladObjectName>
+          <DPHEditovanoRucne>False</DPHEditovanoRucne>
+          <DruhPolozky_ID />
+          <DruhSazbyDPH EnumValueName="Nulova">2</DruhSazbyDPH>
+          <FormatPolozky EnumValueName="Normalni">0</FormatPolozky>
+          <ICO />
+          <JednCena>430.0000</JednCena>
+          <JednCenaCM>430.0000</JednCenaCM>
+          <Jednotka />
+          <KompletneVyuctovana>False</KompletneVyuctovana>
+          <KorekcniPolozka>False</KorekcniPolozka>
+          <KurzovyRozdil>0.00</KurzovyRozdil>
+          <Mnozstvi>1.0000</Mnozstvi>
+          <Nazev>Vyúčtování zaplacené zálohy</Nazev>
+          <ObsahPolozky_ID>c47f840c-ea49-4c31-a5ab-5ccb6c7ae608</ObsahPolozky_ID>
+          <OdpocetDobropisovan>False</OdpocetDobropisovan>
+          <ParentObject_ID />
+          <ParovaciSymbol />
+          <Poradi>1</Poradi>
+          <Poznamka />
+          <Predkontace_ID>92d4a5ed-c2ca-4c84-ab75-b9b30b5d216e</Predkontace_ID>
+          <PredkontaceRozdil_ID />
+          <PreneseniDane_ID />
+          <PreneseniDaneExtUvadetMnozstviMJ>False</PreneseniDaneExtUvadetMnozstviMJ>
+          <PreneseniDaneKombinovanaNomenklatura_ID />
+          <PriznakVyrizeno>False</PriznakVyrizeno>
+          <SazbaDPH_ID>4940de08-8927-4731-ac4a-88f5aec97093</SazbaDPH_ID>
+          <Stredisko_ID>9b17ec26-68d1-4479-8916-c1a2f65f0f98</Stredisko_ID>
+          <TypCeny EnumValueName="SDani">1</TypCeny>
+          <TypObsahu EnumValueName="BezObsahu">0</TypObsahu>
+          <TypPolozky EnumValueName="Neurcena">0</TypPolozky>
+          <UcetDal_ID />
+          <UcetMD_ID />
+          <Vratka>False</Vratka>
+          <Vyrizeno>0.0000</Vyrizeno>
+          <Vzor_ID />
+          <Zakazka_ID>5f4660d4-2769-4fa0-bb7c-224e3173d7e4</Zakazka_ID>
+          <Zaloha_ID />
+          <ZalohaCelkemCM>430.00</ZalohaCelkemCM>
+          <ZalohaDanCM>0.00</ZalohaDanCM>
+          <ZalohaKurzRozdilCM>0.00</ZalohaKurzRozdilCM>
+          <ZalohaZakladCM>430.00</ZalohaZakladCM>
+          <Zbyva>1.0000</Zbyva>
+          <ZdrojovaPolozkaKopirovani_ID />
+          <DPH>
+            <Celkem>430.00</Celkem>
+            <CelkemCM>430.00</CelkemCM>
+            <Dan>0.00</Dan>
+            <DanCM>0.00</DanCM>
+            <Sazba>0.00</Sazba>
+            <Zaklad>430.00</Zaklad>
+            <ZakladCM>430.00</ZakladCM>
+          </DPH>
+          <KrizovyKurz>
+            <Kurz>1.000000</Kurz>
+            <Mnozstvi>1.000000</Mnozstvi>
+          </KrizovyKurz>
+          <PreneseniDane>
+            <KombinovanaNomenklaturaKod />
+            <Mnozstvi>0.0000</Mnozstvi>
+            <PomerMnozstviMJ>0.0000</PomerMnozstviMJ>
+          </PreneseniDane>
+          <CleneniDPH ObjectName="CleneniDPH" ObjectType="Object" ID="56ce0d24-81bf-4b5b-adfa-a97abd4f0be5" />
+          <ObsahPolozky ObjectName="ObsahPolozkyDokladu" ObjectType="Object" ID="c47f840c-ea49-4c31-a5ab-5ccb6c7ae608" />
+          <Predkontace ObjectName="Predkontace" ObjectType="Object" ID="92d4a5ed-c2ca-4c84-ab75-b9b30b5d216e">
+            <Group ID="42d07602-c774-4b2d-ad43-c614a2cf27a9" Kod="FP" />
+          </Predkontace>
+          <SazbaDPH ObjectName="SazbaDPH" ObjectType="Object" ID="4940de08-8927-4731-ac4a-88f5aec97093" />
+          <Stredisko ObjectName="Stredisko" ObjectType="Object" ID="9b17ec26-68d1-4479-8916-c1a2f65f0f98" />
+          <UcetniPohyby ObjectName="PohybKonta" ObjectType="List" />
+          <UcetniZapisy ObjectName="UcetniZapis" ObjectType="List" />
+          <Zakazka ObjectName="Zakazka" ObjectType="Object" ID="5f4660d4-2769-4fa0-bb7c-224e3173d7e4" />
+        </OdpocetZalohy>
+      </OdpoctyZaloh>
+      <Polozky ObjectName="PolozkaFakturyPrijate" ObjectType="List">
+        <PolozkaFakturyPrijate ObjectName="PolozkaFakturyPrijate" ObjectType="Object" ID="e2f11983-7126-4043-851a-080342f81657">
+          <CelkovaCena>355.37</CelkovaCena>
+          <CelkovaCenaBezSlevy>355.37</CelkovaCenaBezSlevy>
+          <CelkovaCenaBezSlevyCM>355.37</CelkovaCenaBezSlevyCM>
+          <CelkovaCenaCM>355.37</CelkovaCenaCM>
+          <CelkovaPorizovaciCena>355.37</CelkovaPorizovaciCena>
+          <CelkoveVedlejsiNaklady>0.00</CelkoveVedlejsiNaklady>
+          <Cinnost_ID />
+          <CisloPolozky>1</CisloPolozky>
+          <CleneniDPH_ID>bd0fe7aa-10a4-4fcc-8ad3-dc7a779ebc3e</CleneniDPH_ID>
+          <DodaciPodminky_ID />
+          <DokladObjectName>FakturaPrijata</DokladObjectName>
+          <DPHEditovanoRucne>False</DPHEditovanoRucne>
+          <DphSazbaZvlastniRezim>0.00</DphSazbaZvlastniRezim>
+          <DruhDopravy_ID />
+          <DruhPohybu_ID />
+          <DruhPolozky_ID />
+          <DruhSazbyDPH EnumValueName="Zakladni">1</DruhSazbyDPH>
+          <DruhSazbyDPHZvlastniRezim EnumValueName="Snizena">0</DruhSazbyDPHZvlastniRezim>
+          <DruhSkladovehoPohybu_ID />
+          <FormatPolozky EnumValueName="Normalni">0</FormatPolozky>
+          <ICO />
+          <JednCena>355.3700</JednCena>
+          <JednCenaCM>355.3700</JednCenaCM>
+          <Jednotka />
+          <JednotkovaCenaBezSlevy>355.3700</JednotkovaCenaBezSlevy>
+          <JednotkovaCenaBezSlevyCM>355.3700</JednotkovaCenaBezSlevyCM>
+          <JednotkovaPorizovaciCena>355.3700</JednotkovaPorizovaciCena>
+          <JednotkoveVedlejsiNaklady>0.0000</JednotkoveVedlejsiNaklady>
+          <Katalog />
+          <KombinovanaNomenklatura_ID />
+          <KrajPuvodu_ID />
+          <Mnozstvi>1.0000</Mnozstvi>
+          <NakladovaPolozka>False</NakladovaPolozka>
+          <Nazev>CNL INVEST - vyjádření Ořechov</Nazev>
+          <NepodlehatSleveDokladu>False</NepodlehatSleveDokladu>
+          <ObsahPolozky_ID>8da531b8-28c0-4440-9ad4-0b6a090d0a3a</ObsahPolozky_ID>
+          <ParentObject_ID />
+          <ParovaciSymbol />
+          <Poradi>1</Poradi>
+          <PovahaTransakce_ID />
+          <Poznamka />
+          <Predkontace_ID>0dda1b70-f002-413e-a47e-a9902dfb2100</Predkontace_ID>
+          <PredkontaceSkladovePolozky_ID />
+          <PreneseniDane_ID />
+          <PreneseniDaneKombinovanaNomenklatura_ID />
+          <PriznakVyrizeno>False</PriznakVyrizeno>
+          <PuvodniDoklad />
+          <SazbaDPH_ID>b7d9bd88-bf7e-4c11-be49-2044879c871c</SazbaDPH_ID>
+          <SazbaDPHZvlastniRezim_ID />
+          <Sleva>0.00</Sleva>
+          <StatistickyZnak_ID />
+          <StatPuvodu_ID />
+          <StatUrceniOdeslani_ID />
+          <Stredisko_ID>9b17ec26-68d1-4479-8916-c1a2f65f0f98</Stredisko_ID>
+          <TypCeny EnumValueName="BezDane">0</TypCeny>
+          <TypObsahu EnumValueName="BezObsahu">0</TypObsahu>
+          <TypPolozky EnumValueName="Neurcena">0</TypPolozky>
+          <UcetDal_ID />
+          <UcetDalSkladovePolozky_ID />
+          <UcetMD_ID />
+          <UcetMDSkladovePolozky_ID />
+          <Vratka>False</Vratka>
+          <Vyrizeno>0.0000</Vyrizeno>
+          <Vzor_ID />
+          <Zakazka_ID />
+          <Zbyva>1.0000</Zbyva>
+          <ZdrojovaPolozkaKopirovani_ID />
+          <ZvlastniPohyb_ID />
+          <ZvlastniRezimDPH EnumValueName="Zadne">0</ZvlastniRezimDPH>
+          <DPH>
+            <Celkem>430.00</Celkem>
+            <CelkemCM>430.00</CelkemCM>
+            <Dan>74.63</Dan>
+            <DanCM>74.63</DanCM>
+            <Sazba>21.00</Sazba>
+            <Zaklad>355.37</Zaklad>
+            <ZakladCM>355.37</ZakladCM>
+          </DPH>
+          <IntrastatPolozka>
+            <CisloZasilky />
+            <DopravniNaklady>0.00</DopravniNaklady>
+            <Hmotnost>0.000</Hmotnost>
+            <Mnozstvi>0.0000</Mnozstvi>
+            <Neslucovat>False</Neslucovat>
+            <OvlivnujeIntrastat>False</OvlivnujeIntrastat>
+          </IntrastatPolozka>
+          <PreneseniDane>
+            <KombinovanaNomenklaturaKod />
+            <Mnozstvi>0.0000</Mnozstvi>
+            <PomerMnozstviMJ>0.0000</PomerMnozstviMJ>
+          </PreneseniDane>
+          <Zaruka>
+            <TypZaruky EnumValueName="Zadna">0</TypZaruky>
+            <ZarucniDoba>0</ZarucniDoba>
+          </Zaruka>
+          <AdresneBlokace ObjectName="BlokaceZasob" ObjectType="List" />
+          <CleneniDPH ObjectName="CleneniDPH" ObjectType="Object" ID="bd0fe7aa-10a4-4fcc-8ad3-dc7a779ebc3e" />
+          <Predkontace ObjectName="Predkontace" ObjectType="Object" ID="0dda1b70-f002-413e-a47e-a9902dfb2100">
+            <Group ID="42d07602-c774-4b2d-ad43-c614a2cf27a9" Kod="FP" />
+          </Predkontace>
+          <SazbaDPH ObjectName="SazbaDPH" ObjectType="Object" ID="b7d9bd88-bf7e-4c11-be49-2044879c871c" />
+          <Stredisko ObjectName="Stredisko" ObjectType="Object" ID="9b17ec26-68d1-4479-8916-c1a2f65f0f98" />
+          <UcetniPohyby ObjectName="PohybKonta" ObjectType="List" />
+          <UcetniZapisy ObjectName="UcetniZapis" ObjectType="List" />
+        </PolozkaFakturyPrijate>
+      </Polozky>
+      <Poplatky ObjectName="PoplatekZaDoklad" ObjectType="List" />
+      <Predkontace ObjectName="Predkontace" ObjectType="Object" ID="0dda1b70-f002-413e-a47e-a9902dfb2100">
+        <Group ID="42d07602-c774-4b2d-ad43-c614a2cf27a9" Kod="FP" />
+      </Predkontace>
+      <PredkontaceZaokrouhleni ObjectName="Predkontace" ObjectType="Object" ID="ffb379f2-b7b6-4e62-aac2-c1bb6b7d1d36">
+        <Group ID="42d07602-c774-4b2d-ad43-c614a2cf27a9" Kod="FP" />
+      </PredkontaceZaokrouhleni>
+      <RegistraceDPH ObjectName="DanovaRegistrace" ObjectType="Object" ID="c1fde986-b93b-4090-a36d-9a04a57d3037" />
+      <SazbaDPH0 ObjectName="SazbaDPH" ObjectType="Object" ID="4940de08-8927-4731-ac4a-88f5aec97093" />
+      <SazbaDPH1 ObjectName="SazbaDPH" ObjectType="Object" ID="ca71c934-2058-45ba-ba4f-7c9000e330fa" />
+      <SazbaDPH2 ObjectName="SazbaDPH" ObjectType="Object" ID="b7d9bd88-bf7e-4c11-be49-2044879c871c" />
+      <SazbyDPHNaDoklade ObjectName="SazbaDPHNaDoklade" ObjectType="List">
+        <SazbaDPHNaDoklade ObjectName="SazbaDPHNaDoklade" ObjectType="Object" ID="1f93e508-11e0-4c31-a33b-9f679b210de7">
+          <Aktivni>True</Aktivni>
+          <DruhSazby EnumValueName="Nulova">2</DruhSazby>
+          <Pouzita>True</Pouzita>
+          <RozpisDPH_ID>ab06816b-1fd1-4e43-a942-b64c85d0197a</RozpisDPH_ID>
+          <SazbaDPH_ID>4940de08-8927-4731-ac4a-88f5aec97093</SazbaDPH_ID>
+          <VybranaNaHlavicce>True</VybranaNaHlavicce>
+          <RozpisDPH ObjectName="RozpisDPH" ObjectType="Object" ID="ab06816b-1fd1-4e43-a942-b64c85d0197a">
+            <Sazba>0.00</Sazba>
+            <DPH>
+              <Celkem>-430.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>-430.00</Zaklad>
+            </DPH>
+            <DPHCM />
+            <Korekce>
+              <Celkem>0.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>0.00</Zaklad>
+            </Korekce>
+            <KorekceCM>
+              <Celkem>0.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>0.00</Zaklad>
+            </KorekceCM>
+            <Suma>
+              <Celkem>-430.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>-430.00</Zaklad>
+            </Suma>
+            <SumaCM>
+              <Celkem>-430.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>-430.00</Zaklad>
+            </SumaCM>
+          </RozpisDPH>
+          <SazbaDPH ObjectName="SazbaDPH" ObjectType="Object" ID="4940de08-8927-4731-ac4a-88f5aec97093" />
+        </SazbaDPHNaDoklade>
+        <SazbaDPHNaDoklade ObjectName="SazbaDPHNaDoklade" ObjectType="Object" ID="380c162c-2d56-4a81-8d1b-871d45620901">
+          <Aktivni>True</Aktivni>
+          <DruhSazby EnumValueName="Snizena">0</DruhSazby>
+          <Pouzita>False</Pouzita>
+          <RozpisDPH_ID>2edf5a71-cdb0-44a5-af22-b2882ac7b643</RozpisDPH_ID>
+          <SazbaDPH_ID>ca71c934-2058-45ba-ba4f-7c9000e330fa</SazbaDPH_ID>
+          <VybranaNaHlavicce>True</VybranaNaHlavicce>
+          <RozpisDPH ObjectName="RozpisDPH" ObjectType="Object" ID="2edf5a71-cdb0-44a5-af22-b2882ac7b643">
+            <Sazba>12.00</Sazba>
+            <DPH>
+              <Celkem>0.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>0.00</Zaklad>
+            </DPH>
+            <DPHCM />
+            <Korekce>
+              <Celkem>0.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>0.00</Zaklad>
+            </Korekce>
+            <KorekceCM>
+              <Celkem>0.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>0.00</Zaklad>
+            </KorekceCM>
+            <Suma>
+              <Celkem>0.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>0.00</Zaklad>
+            </Suma>
+            <SumaCM>
+              <Celkem>0.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>0.00</Zaklad>
+            </SumaCM>
+          </RozpisDPH>
+          <SazbaDPH ObjectName="SazbaDPH" ObjectType="Object" ID="ca71c934-2058-45ba-ba4f-7c9000e330fa" />
+        </SazbaDPHNaDoklade>
+        <SazbaDPHNaDoklade ObjectName="SazbaDPHNaDoklade" ObjectType="Object" ID="9aad5562-d491-4f26-bef7-85de3be73a3e">
+          <Aktivni>True</Aktivni>
+          <DruhSazby EnumValueName="Zakladni">1</DruhSazby>
+          <Pouzita>True</Pouzita>
+          <RozpisDPH_ID>37d6ec0b-2839-40e3-8bad-5667b20e8106</RozpisDPH_ID>
+          <SazbaDPH_ID>b7d9bd88-bf7e-4c11-be49-2044879c871c</SazbaDPH_ID>
+          <VybranaNaHlavicce>True</VybranaNaHlavicce>
+          <RozpisDPH ObjectName="RozpisDPH" ObjectType="Object" ID="37d6ec0b-2839-40e3-8bad-5667b20e8106">
+            <Sazba>21.00</Sazba>
+            <DPH>
+              <Celkem>430.00</Celkem>
+              <DPH>74.63</DPH>
+              <Zaklad>355.37</Zaklad>
+            </DPH>
+            <DPHCM />
+            <Korekce>
+              <Celkem>0.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>0.00</Zaklad>
+            </Korekce>
+            <KorekceCM>
+              <Celkem>0.00</Celkem>
+              <DPH>0.00</DPH>
+              <Zaklad>0.00</Zaklad>
+            </KorekceCM>
+            <Suma>
+              <Celkem>430.00</Celkem>
+              <DPH>74.63</DPH>
+              <Zaklad>355.37</Zaklad>
+            </Suma>
+            <SumaCM>
+              <Celkem>430.00</Celkem>
+              <DPH>74.63</DPH>
+              <Zaklad>355.37</Zaklad>
+            </SumaCM>
+          </RozpisDPH>
+          <SazbaDPH ObjectName="SazbaDPH" ObjectType="Object" ID="b7d9bd88-bf7e-4c11-be49-2044879c871c" />
+        </SazbaDPHNaDoklade>
+      </SazbyDPHNaDoklade>
+      <SeznamCleneniDPHNaDokladu ObjectName="CleneniDPHNaDokladu" ObjectType="List">
+        <CleneniDPHNaDokladu ObjectName="CleneniDPHNaDokladu" ObjectType="Object" ID="1e906007-07ae-439c-beef-53d930440582">
+          <CleneniDPH_ID>bd0fe7aa-10a4-4fcc-8ad3-dc7a779ebc3e</CleneniDPH_ID>
+          <Vyber>True</Vyber>
+          <CleneniDPH ObjectName="CleneniDPH" ObjectType="Object" ID="bd0fe7aa-10a4-4fcc-8ad3-dc7a779ebc3e" />
+        </CleneniDPHNaDokladu>
+        <CleneniDPHNaDokladu ObjectName="CleneniDPHNaDokladu" ObjectType="Object" ID="8ef17ed4-8a9f-4423-8a8a-f9b91b7542ed">
+          <CleneniDPH_ID>56ce0d24-81bf-4b5b-adfa-a97abd4f0be5</CleneniDPH_ID>
+          <Vyber>False</Vyber>
+          <CleneniDPH ObjectName="CleneniDPH" ObjectType="Object" ID="56ce0d24-81bf-4b5b-adfa-a97abd4f0be5" />
+        </CleneniDPHNaDokladu>
+      </SeznamCleneniDPHNaDokladu>
+      <SeznamUhrad ObjectName="Uhrada" ObjectType="List" />
+      <Schvalil ObjectName="User" ObjectType="Object" ID="7d311fb1-8038-4bc7-9c9f-24b559397ce6" />
+      <Stredisko ObjectName="Stredisko" ObjectType="Object" ID="9b17ec26-68d1-4479-8916-c1a2f65f0f98" />
+      <UcetniZapisy ObjectName="UcetniZapis" ObjectType="List">
+        <UcetniZapis ObjectName="UcetniZapis" ObjectType="Object" ID="ffb753d8-c4c8-4273-8bfa-ea238e9338a4" />
+        <UcetniZapis ObjectName="UcetniZapis" ObjectType="Object" ID="007abbc5-47ee-40ed-9a9c-4c2b169eac03" />
+        <UcetniZapis ObjectName="UcetniZapis" ObjectType="Object" ID="106b70c7-c23c-4d0e-a842-bf2f62566f67" />
+      </UcetniZapisy>
+      <VazbyObjektu ObjectName="VazbaObjektu" ObjectType="List" />
+      <Zakazka ObjectName="Zakazka" ObjectType="Object" ID="5f4660d4-2769-4fa0-bb7c-224e3173d7e4" />
+      <Zauctoval ObjectName="User" ObjectType="Object" ID="7d311fb1-8038-4bc7-9c9f-24b559397ce6" />
+      <ZpusobPlatby ObjectName="ZpusobPlatby" ObjectType="Object" ID="d3b43f46-2cdd-413f-b51c-ad9096771980" />
+    </FakturaPrijata>
+  </FakturaPrijataList>
+</S5Data>

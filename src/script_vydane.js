@@ -89,14 +89,14 @@ function transformXmlVydane(xmlDoc) {
 
         const zakazka = xmlDoc.createElement('Zakazka');
         
-        const regex = /\b\d{4}[\/_]\d{4}\b/;
+        const regex = /(?<=\s|\(|\[|^)\d{4}[\/_]\d{4}(?=\s|\)|\]|$)/;
         const matchPredFa = textPredFa.textContent.match(regex);
         const matchZaFa = textZaFa.textContent.match(regex);
 
         if (matchPredFa) {
-            zakazka.textContent = matchPredFa[0];
+            zakazka.textContent = matchPredFa[0].replace(/[\s\(\)\[\]]/g, '').trim();
         } else if (matchZaFa) {
-            zakazka.textContent = matchZaFa[0];
+            zakazka.textContent = matchZaFa[0].replace(/[\s\(\)\[\]]/g, '').trim();
         } else {
             zakazka.textContent = fakturaVydana.getElementsByTagName('Zakazka_ID')[0]?.textContent || '';
         }
@@ -138,6 +138,10 @@ function transformXmlVydane(xmlDoc) {
             const cena = xmlDoc.createElement('Cena');
             cena.textContent = parseInt(polozka.getElementsByTagName('CelkovaCena')[0]?.textContent) || 0;
             newPolozka.appendChild(cena);
+            
+            const valuty = xmlDoc.createElement('Valuty');
+            valuty.textContent = 0;
+            newPolozka.appendChild(valuty);
 
             seznamPolozek.appendChild(newPolozka);
         }

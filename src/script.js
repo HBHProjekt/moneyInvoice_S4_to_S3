@@ -86,7 +86,7 @@ function transformXml(xmlDoc) {
         zakazka.textContent = fakturaPrijata.getElementsByTagName('Zakazka_ID')[0]?.textContent || '';
 
         //19b61351-2c27-4e5f-a2cb-5c3925a1603e <- 2025/0001
-        if (zakazka.textContent === '19b61351-2c27-4e5f-a2cb-5c3925a1603e') {
+        if (zakazka.textContent === '19b61351-2c27-4e5f-a2cb-5c3925a1603e' || zakazka.textContent === 'b313130c-1af1-4431-b03a-63c9b3ed29d6') {
             zakazka.textContent = '2025/0001';
         }
         
@@ -119,7 +119,7 @@ function transformXml(xmlDoc) {
         const dodOdb = xmlDoc.createElement('DodOdb');
 
         const obchNazevDodOdb = xmlDoc.createElement('ObchNazev');
-        obchNazevDodOdb.textContent = fakturaPrijata.getElementsByTagName('Nazev')[0]?.textContent || '';
+        obchNazevDodOdb.textContent = fakturaPrijata.getElementsByTagName('Adresa')[0]?.getElementsByTagName('Nazev')[0]?.textContent || '';
         dodOdb.appendChild(obchNazevDodOdb);
         const ico1 = xmlDoc.createElement('ICO');
         ico1.textContent = fakturaPrijata.getElementsByTagName('IC')[0]?.textContent || '';
@@ -151,12 +151,20 @@ function transformXml(xmlDoc) {
             const cena = xmlDoc.createElement('Cena');
             cena.textContent = parseInt(polozka.getElementsByTagName('CelkovaCena')[0]?.textContent) || 0;
             newPolozka.appendChild(cena);
+            
+            const valuty = xmlDoc.createElement('Valuty');
+            valuty.textContent = 0;
+            newPolozka.appendChild(valuty);
 
             const zakazka = xmlDoc.createElement('Zakazka');
-            zakazka.textContent = polozka.getElementsByTagName('Zakazka_ID')[0]?.textContent || '';            
+            zakazka.textContent = polozka.getElementsByTagName('Zakazka_ID')[0]?.textContent || ''; 
+            
+            if (zakazka.textContent === '') {
+                zakazka.textContent = fakturaPrijata.getElementsByTagName('Zakazka_ID')[0]?.textContent || '';
+            }
 
             //19b61351-2c27-4e5f-a2cb-5c3925a1603e <- 2025/0001
-            if (zakazka.textContent === '19b61351-2c27-4e5f-a2cb-5c3925a1603e') {
+            if (zakazka.textContent === '19b61351-2c27-4e5f-a2cb-5c3925a1603e' || zakazka.textContent === 'b313130c-1af1-4431-b03a-63c9b3ed29d6') {
                 zakazka.textContent = '2025/0001';
             }
 
