@@ -98,7 +98,7 @@ function transformXmlVydane(xmlDoc) {
         } else if (matchZaFa) {
             zakazka.textContent = matchZaFa[0].replace(/[\s\(\)\[\]]/g, '').trim();
         } else {
-            zakazka.textContent = fakturaVydana.getElementsByTagName('Zakazka_ID')[0]?.textContent || '';
+            zakazka.textContent = fakturaVydana.getElementsByTagName('Zakazka_ID')[0]?.textContent || '9999/9999';
         }
 
         faktVyd.appendChild(zakazka);

@@ -83,7 +83,7 @@ function transformXml(xmlDoc) {
         faktPrij.appendChild(varSymbol);
 
         const zakazka = xmlDoc.createElement('Zakazka');
-        zakazka.textContent = fakturaPrijata.getElementsByTagName('Zakazka_ID')[0]?.textContent || '';
+        zakazka.textContent = fakturaPrijata.getElementsByTagName('Zakazka_ID')[0]?.textContent || '9999/9999';
 
         //19b61351-2c27-4e5f-a2cb-5c3925a1603e <- 2025/0001
         if (zakazka.textContent === '19b61351-2c27-4e5f-a2cb-5c3925a1603e' || zakazka.textContent === 'b313130c-1af1-4431-b03a-63c9b3ed29d6') {
@@ -157,10 +157,10 @@ function transformXml(xmlDoc) {
             newPolozka.appendChild(valuty);
 
             const zakazka = xmlDoc.createElement('Zakazka');
-            zakazka.textContent = polozka.getElementsByTagName('Zakazka_ID')[0]?.textContent || ''; 
+            zakazka.textContent = polozka.getElementsByTagName('Zakazka_ID')[0]?.textContent || '9999/9999'; 
             
             if (zakazka.textContent === '') {
-                zakazka.textContent = fakturaPrijata.getElementsByTagName('Zakazka_ID')[0]?.textContent || '';
+                zakazka.textContent = fakturaPrijata.getElementsByTagName('Zakazka_ID')[0]?.textContent || '9999/9999';
             }
 
             //19b61351-2c27-4e5f-a2cb-5c3925a1603e <- 2025/0001
